@@ -1,0 +1,2813 @@
+{
+  "Common Cold": {
+    "description": "The common cold is a viral infection of the upper respiratory tract, primarily affecting the nose and throat. It is usually harmless and resolves within 7-10 days.",
+    "causes": [
+      "Rhinoviruses (most common)",
+      "Coronaviruses",
+      "RSV (Respiratory Syncytial Virus)",
+      "Parainfluenza viruses",
+      "Spread through airborne droplets or direct contact"
+    ],
+    "common_symptoms": [
+      "Runny or stuffy nose",
+      "Sore throat",
+      "Cough",
+      "Sneezing",
+      "Mild headache",
+      "Low-grade fever",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Weakened immune system",
+      "Seasonal changes (fall and winter)",
+      "Close contact with infected individuals",
+      "Young age (children under 6)",
+      "Smoking",
+      "Lack of sleep"
+    ],
+    "prevention": [
+      "Wash hands frequently with soap and water",
+      "Avoid touching face with unwashed hands",
+      "Stay away from sick individuals",
+      "Disinfect frequently touched surfaces",
+      "Maintain a healthy immune system with proper nutrition",
+      "Get adequate sleep"
+    ],
+    "home_remedies": [
+      "Stay well hydrated \u2014 drink water, warm soups, and herbal teas",
+      "Get plenty of rest",
+      "Gargle with warm salt water for sore throat",
+      "Use a humidifier to add moisture to the air",
+      "Try honey and lemon in warm water",
+      "Steam inhalation to relieve congestion",
+      "Consume vitamin C-rich foods like oranges and lemons"
+    ],
+    "general_advice": [
+      "Over-the-counter decongestants may help relieve nasal congestion",
+      "Acetaminophen or ibuprofen for pain and fever relief",
+      "Saline nasal spray can help with stuffiness",
+      "Throat lozenges for sore throat relief",
+      "Avoid antibiotics \u2014 they don't work against viruses"
+    ],
+    "when_to_see_doctor": [
+      "Fever above 101.3\u00b0F (38.5\u00b0C) lasting more than 3 days",
+      "Symptoms lasting more than 10 days",
+      "Severe sinus pain",
+      "Difficulty breathing",
+      "Symptoms that worsen after initial improvement"
+    ],
+    "clinical_treatments": [
+      "Over-the-counter decongestants (e.g., pseudoephedrine)",
+      "Antihistamines for runny nose",
+      "NSAIDs or acetaminophen for fever and pain",
+      "Cough suppressants (dextromethorphan)"
+    ]
+  },
+  "Flu": {
+    "description": "Influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can range from mild to severe and can lead to serious complications, especially in high-risk groups.",
+    "causes": [
+      "Influenza A and B viruses",
+      "Spread through respiratory droplets",
+      "Contact with contaminated surfaces",
+      "Airborne transmission in enclosed spaces"
+    ],
+    "common_symptoms": [
+      "High fever (100-104\u00b0F)",
+      "Severe body aches and muscle pain",
+      "Chills and sweats",
+      "Headache",
+      "Dry persistent cough",
+      "Fatigue and weakness",
+      "Sore throat",
+      "Nasal congestion"
+    ],
+    "risk_factors": [
+      "Age (young children and elderly)",
+      "Chronic medical conditions",
+      "Weakened immune system",
+      "Pregnancy",
+      "Obesity",
+      "Living in nursing homes or long-term care facilities"
+    ],
+    "prevention": [
+      "Get annual flu vaccination",
+      "Wash hands frequently",
+      "Avoid close contact with sick people",
+      "Cover mouth and nose when coughing or sneezing",
+      "Clean and disinfect surfaces",
+      "Maintain a healthy lifestyle"
+    ],
+    "home_remedies": [
+      "Rest as much as possible",
+      "Drink plenty of fluids \u2014 water, broth, and electrolyte drinks",
+      "Use a humidifier for congestion relief",
+      "Gargle with salt water for sore throat",
+      "Take warm baths to reduce fever and body aches",
+      "Consume ginger tea with honey",
+      "Eat light, nutritious meals like chicken soup"
+    ],
+    "general_advice": [
+      "Acetaminophen or ibuprofen for fever and pain",
+      "Antiviral medications (oseltamivir) if prescribed within 48 hours of onset",
+      "Stay home for at least 24 hours after fever subsides",
+      "Monitor symptoms for signs of complications",
+      "Avoid aspirin in children and teenagers"
+    ],
+    "when_to_see_doctor": [
+      "Difficulty breathing or shortness of breath",
+      "Persistent chest pain or pressure",
+      "Confusion or altered mental status",
+      "Severe or persistent vomiting",
+      "Flu-like symptoms that improve then return with fever and worse cough",
+      "High fever lasting more than 3 days"
+    ],
+    "clinical_treatments": [
+      "Antiviral drugs (e.g., Oseltamivir/Tamiflu) if diagnosed early",
+      "NSAIDs (Ibuprofen) or Acetaminophen for fever/aches",
+      "IV fluids in severe cases"
+    ]
+  },
+  "Pneumonia": {
+    "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm, fever, chills, and difficulty breathing.",
+    "causes": [
+      "Bacteria (Streptococcus pneumoniae most common)",
+      "Viruses (including influenza and COVID-19)",
+      "Fungi",
+      "Aspiration of food, liquid, or vomit",
+      "Hospital-acquired infections"
+    ],
+    "common_symptoms": [
+      "Cough with phlegm or pus",
+      "Fever, sweating, and shaking chills",
+      "Shortness of breath",
+      "Chest pain when breathing or coughing",
+      "Fatigue",
+      "Nausea, vomiting, or diarrhea",
+      "Confusion (in older adults)"
+    ],
+    "risk_factors": [
+      "Age (children under 2 and adults over 65)",
+      "Chronic lung disease",
+      "Weakened immune system",
+      "Smoking",
+      "Hospitalization (especially ICU)",
+      "Recent respiratory infection"
+    ],
+    "prevention": [
+      "Get vaccinated (pneumococcal vaccine)",
+      "Practice good hygiene",
+      "Don't smoke",
+      "Keep immune system strong",
+      "Get flu vaccine annually",
+      "Practice good respiratory hygiene"
+    ],
+    "home_remedies": [
+      "Rest is essential for recovery",
+      "Stay well hydrated with warm fluids",
+      "Use a humidifier to ease breathing",
+      "Drink warm water with honey and turmeric",
+      "Gentle breathing exercises when feeling better",
+      "Elevate head while sleeping",
+      "Consume warm broths and soups"
+    ],
+    "general_advice": [
+      "Complete the full course of prescribed antibiotics if bacterial",
+      "Over-the-counter fever reducers as needed",
+      "Avoid cough suppressants unless directed by doctor",
+      "Gradually increase activity as you recover",
+      "Follow-up chest X-ray may be recommended"
+    ],
+    "when_to_see_doctor": [
+      "Seek immediate medical attention for pneumonia symptoms",
+      "Difficulty breathing or rapid breathing",
+      "Chest pain",
+      "High fever (above 102\u00b0F/39\u00b0C)",
+      "Confusion or disorientation",
+      "Bluish lips or fingertips",
+      "Coughing up blood"
+    ],
+    "clinical_treatments": [
+      "Antibiotics (e.g., Azithromycin, Amoxicillin) for bacterial pneumonia",
+      "Antivirals for viral pneumonia",
+      "Corticosteroids for severe inflammation",
+      "Oxygen therapy in severe cases"
+    ]
+  },
+  "Diabetes": {
+    "description": "Diabetes is a chronic metabolic disease characterized by elevated blood sugar levels. Over time, uncontrolled diabetes can lead to serious damage to the heart, blood vessels, eyes, kidneys, and nerves.",
+    "causes": [
+      "Type 1: Autoimmune destruction of insulin-producing cells",
+      "Type 2: Insulin resistance and insufficient insulin production",
+      "Genetic factors",
+      "Obesity and sedentary lifestyle",
+      "Gestational diabetes during pregnancy"
+    ],
+    "common_symptoms": [
+      "Excessive thirst (polydipsia)",
+      "Frequent urination (polyuria)",
+      "Unexplained weight loss",
+      "Blurred vision",
+      "Fatigue and weakness",
+      "Slow-healing wounds",
+      "Numbness or tingling in hands/feet",
+      "Increased hunger"
+    ],
+    "risk_factors": [
+      "Family history of diabetes",
+      "Overweight or obesity",
+      "Sedentary lifestyle",
+      "Age over 45",
+      "History of gestational diabetes",
+      "Polycystic ovary syndrome",
+      "High blood pressure"
+    ],
+    "prevention": [
+      "Maintain a healthy weight",
+      "Exercise regularly (at least 150 minutes per week)",
+      "Eat a balanced, low-sugar diet",
+      "Limit refined carbohydrates and sugary drinks",
+      "Monitor blood sugar levels regularly",
+      "Get regular health checkups"
+    ],
+    "home_remedies": [
+      "Regular physical exercise (walking, swimming, cycling)",
+      "Eat fiber-rich foods like whole grains, vegetables, and legumes",
+      "Consume bitter gourd (karela) juice",
+      "Include fenugreek seeds in diet",
+      "Drink cinnamon water",
+      "Manage stress through yoga and meditation",
+      "Monitor portion sizes and eat at regular intervals"
+    ],
+    "general_advice": [
+      "Monitor blood sugar levels as advised by your doctor",
+      "Take prescribed medications regularly",
+      "Maintain a food diary",
+      "Wear medical identification",
+      "Get regular eye, foot, and kidney examinations",
+      "Limit alcohol consumption"
+    ],
+    "when_to_see_doctor": [
+      "Blood sugar levels consistently above normal range",
+      "Symptoms of diabetic ketoacidosis (fruity breath, nausea, confusion)",
+      "Non-healing wounds or infections",
+      "Vision changes",
+      "Numbness or pain in extremities",
+      "Frequent urinary tract infections"
+    ],
+    "clinical_treatments": [
+      "Insulin therapy (Type 1 or advanced Type 2)",
+      "Metformin (first-line for Type 2)",
+      "Sulfonylureas or SGLT2 inhibitors",
+      "Regular blood glucose monitoring"
+    ]
+  },
+  "Hypertension": {
+    "description": "Hypertension (high blood pressure) is a condition where the force of blood against artery walls is consistently too high. It is often called the 'silent killer' because it typically has no symptoms but can lead to serious health problems.",
+    "causes": [
+      "Essential/primary hypertension (no identifiable cause, develops over years)",
+      "Secondary hypertension from kidney disease, thyroid problems, or medications",
+      "Atherosclerosis (hardening of arteries)",
+      "Hormonal imbalances",
+      "Stress"
+    ],
+    "common_symptoms": [
+      "Often no symptoms (silent condition)",
+      "Severe headaches",
+      "Nosebleeds",
+      "Shortness of breath",
+      "Dizziness",
+      "Chest pain",
+      "Vision problems",
+      "Blood in urine"
+    ],
+    "risk_factors": [
+      "Age (risk increases with age)",
+      "Family history",
+      "Obesity",
+      "High sodium diet",
+      "Lack of physical activity",
+      "Excessive alcohol consumption",
+      "Chronic stress",
+      "Smoking"
+    ],
+    "prevention": [
+      "Reduce sodium intake (less than 2,300 mg per day)",
+      "Exercise regularly",
+      "Maintain healthy weight",
+      "Limit alcohol",
+      "Quit smoking",
+      "Manage stress",
+      "Follow the DASH diet",
+      "Get regular blood pressure checks"
+    ],
+    "home_remedies": [
+      "Reduce salt intake and eat potassium-rich foods (bananas, spinach)",
+      "Practice deep breathing exercises and meditation",
+      "Regular walking (30 minutes daily)",
+      "Drink hibiscus tea",
+      "Include garlic in your diet",
+      "Limit caffeine intake",
+      "Maintain a healthy sleep schedule",
+      "Try the DASH diet (rich in fruits, vegetables, and whole grains)"
+    ],
+    "general_advice": [
+      "Monitor blood pressure at home regularly",
+      "Take prescribed medications consistently",
+      "Reduce stress through relaxation techniques",
+      "Limit processed and fast foods",
+      "Maintain a healthy BMI",
+      "Avoid excessive alcohol consumption"
+    ],
+    "when_to_see_doctor": [
+      "Blood pressure reading above 180/120 mmHg (hypertensive crisis)",
+      "Severe headache with confusion",
+      "Vision changes",
+      "Difficulty breathing",
+      "Chest pain",
+      "Blood in urine",
+      "Severe anxiety"
+    ],
+    "clinical_treatments": [
+      "ACE inhibitors (e.g., Lisinopril)",
+      "Angiotensin II receptor blockers (ARBs)",
+      "Diuretics (e.g., Hydrochlorothiazide)",
+      "Calcium channel blockers",
+      "Beta blockers"
+    ]
+  },
+  "Migraine": {
+    "description": "Migraine is a neurological condition characterized by intense, debilitating headaches often accompanied by nausea, vomiting, and sensitivity to light and sound. Attacks can last from hours to days.",
+    "causes": [
+      "Genetic factors",
+      "Changes in brainstem interactions with the trigeminal nerve",
+      "Imbalances in brain chemicals (serotonin)",
+      "Hormonal changes",
+      "Environmental triggers",
+      "Stress and anxiety"
+    ],
+    "common_symptoms": [
+      "Intense throbbing or pulsating headache (usually one-sided)",
+      "Nausea and vomiting",
+      "Sensitivity to light and sound",
+      "Visual disturbances (aura)",
+      "Dizziness",
+      "Fatigue",
+      "Neck stiffness"
+    ],
+    "risk_factors": [
+      "Family history of migraines",
+      "Female sex (3 times more common in women)",
+      "Age (peak during 30s)",
+      "Hormonal changes",
+      "Stress",
+      "Certain foods and beverages",
+      "Sleep pattern changes"
+    ],
+    "prevention": [
+      "Identify and avoid personal triggers",
+      "Maintain regular sleep schedule",
+      "Stay hydrated",
+      "Exercise regularly",
+      "Manage stress",
+      "Limit caffeine and alcohol",
+      "Keep a migraine diary to track patterns"
+    ],
+    "home_remedies": [
+      "Rest in a dark, quiet room",
+      "Apply cold compress to forehead or neck",
+      "Stay hydrated",
+      "Try peppermint or lavender essential oil",
+      "Practice relaxation techniques",
+      "Ginger tea for nausea relief",
+      "Gentle scalp massage",
+      "Magnesium-rich foods (nuts, seeds, dark chocolate)"
+    ],
+    "general_advice": [
+      "Over-the-counter pain relievers (ibuprofen, acetaminophen) at onset",
+      "Triptans may be prescribed for moderate to severe migraines",
+      "Anti-nausea medications if needed",
+      "Preventive medications for frequent migraines",
+      "Avoid overuse of pain medications"
+    ],
+    "when_to_see_doctor": [
+      "Sudden severe headache ('thunderclap headache')",
+      "Headache with fever, stiff neck, or rash",
+      "Headache after head injury",
+      "New headache pattern after age 50",
+      "Migraine lasting more than 72 hours",
+      "Weakness, numbness, or vision loss with headache"
+    ],
+    "clinical_treatments": [
+      "Triptans (e.g., Sumatriptan) for acute attacks",
+      "NSAIDs or specialized pain relievers",
+      "Preventive medications (beta blockers, antidepressants, or anti-seizure drugs)",
+      "CGRP antagonists"
+    ]
+  },
+  "Dengue": {
+    "description": "Dengue is a mosquito-borne viral infection causing a severe flu-like illness. It is transmitted by Aedes mosquitoes and can develop into severe dengue (dengue hemorrhagic fever), which can be life-threatening.",
+    "causes": [
+      "Dengue virus (DENV) \u2014 four serotypes",
+      "Transmitted by Aedes aegypti and Aedes albopictus mosquitoes",
+      "Cannot spread directly from person to person"
+    ],
+    "common_symptoms": [
+      "High fever (104\u00b0F/40\u00b0C)",
+      "Severe headache",
+      "Pain behind the eyes",
+      "Severe joint and muscle pain",
+      "Fatigue",
+      "Nausea and vomiting",
+      "Skin rash (appears 2-5 days after fever onset)",
+      "Mild bleeding (nose, gums)"
+    ],
+    "risk_factors": [
+      "Living in or traveling to tropical/subtropical areas",
+      "Previous dengue infection",
+      "Young age",
+      "Weakened immune system",
+      "Rainy season exposure"
+    ],
+    "prevention": [
+      "Use mosquito repellent",
+      "Wear long-sleeved shirts and long pants",
+      "Use window and door screens",
+      "Eliminate standing water around your home",
+      "Use mosquito nets while sleeping",
+      "Get dengue vaccine if available in your area"
+    ],
+    "home_remedies": [
+      "Complete bed rest is essential",
+      "Drink plenty of fluids \u2014 water, coconut water, and ORS",
+      "Papaya leaf extract (shown to help increase platelet count)",
+      "Drink fresh pomegranate or kiwi juice",
+      "Consume turmeric milk",
+      "Eat easily digestible foods",
+      "Use cold compresses for fever"
+    ],
+    "general_advice": [
+      "Acetaminophen (paracetamol) for fever and pain",
+      "AVOID aspirin and ibuprofen (increases bleeding risk)",
+      "Monitor platelet count regularly",
+      "Watch for warning signs of severe dengue",
+      "IV fluids may be needed in severe cases"
+    ],
+    "when_to_see_doctor": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding from gums or nose",
+      "Blood in stool or vomit",
+      "Rapid breathing",
+      "Fatigue or restlessness",
+      "Platelet count dropping below 100,000"
+    ],
+    "clinical_treatments": [
+      "Intravenous (IV) fluid and electrolyte replacement",
+      "Acetaminophen for fever management",
+      "Blood pressure monitoring",
+      "Blood transfusion in severe hemorrhagic cases"
+    ]
+  },
+  "Malaria": {
+    "description": "Malaria is a life-threatening mosquito-borne disease caused by Plasmodium parasites. It is transmitted through the bites of infected female Anopheles mosquitoes and causes recurring episodes of fever and chills.",
+    "causes": [
+      "Plasmodium parasites (P. falciparum, P. vivax, P. malariae, P. ovale)",
+      "Transmitted by female Anopheles mosquitoes",
+      "Can also be transmitted through blood transfusion or shared needles"
+    ],
+    "common_symptoms": [
+      "Periodic high fever with chills and sweating",
+      "Headache",
+      "Nausea and vomiting",
+      "Muscle and joint pain",
+      "Fatigue",
+      "Abdominal pain",
+      "Jaundice (yellowing of skin/eyes)",
+      "Anemia"
+    ],
+    "risk_factors": [
+      "Living in or traveling to malaria-endemic regions",
+      "Young children and infants",
+      "Pregnant women",
+      "People with weakened immune systems",
+      "Poverty and lack of healthcare access"
+    ],
+    "prevention": [
+      "Use insecticide-treated bed nets",
+      "Apply mosquito repellent containing DEET",
+      "Take antimalarial prophylaxis when traveling to endemic areas",
+      "Eliminate mosquito breeding sites",
+      "Wear protective clothing",
+      "Use indoor residual spraying"
+    ],
+    "home_remedies": [
+      "Stay well hydrated with water and electrolyte solutions",
+      "Rest as much as possible",
+      "Consume citrus fruits for vitamin C",
+      "Ginger tea to help with nausea",
+      "Eat light, easily digestible foods",
+      "Cinnamon tea may help reduce symptoms",
+      "Cold compress for fever management"
+    ],
+    "general_advice": [
+      "Antimalarial medications as prescribed by doctor are essential",
+      "Complete the full course of treatment",
+      "Monitor for complications",
+      "Blood tests needed to confirm diagnosis and monitor treatment",
+      "Preventive treatment may be needed for travelers"
+    ],
+    "when_to_see_doctor": [
+      "Seek immediate medical attention if malaria is suspected",
+      "High fever with chills after visiting endemic area",
+      "Jaundice or dark urine",
+      "Confusion or seizures",
+      "Severe anemia symptoms",
+      "Difficulty breathing",
+      "Persistent vomiting"
+    ],
+    "clinical_treatments": [
+      "Artemisinin-based combination therapies (ACTs)",
+      "Chloroquine phosphate",
+      "Mefloquine or Quinine sulfate depending on resistance"
+    ]
+  },
+  "Typhoid": {
+    "description": "Typhoid fever is a bacterial infection caused by Salmonella typhi. It spreads through contaminated food and water and is common in areas with poor sanitation. Without treatment, it can be life-threatening.",
+    "causes": [
+      "Salmonella typhi bacteria",
+      "Contaminated water and food",
+      "Poor sanitation and hygiene",
+      "Carriers who don't show symptoms can spread the bacteria"
+    ],
+    "common_symptoms": [
+      "Sustained high fever (103-104\u00b0F)",
+      "Headache",
+      "Stomach pain",
+      "Constipation or diarrhea",
+      "Loss of appetite",
+      "Weakness and fatigue",
+      "Rose-colored spots on chest",
+      "Body aches"
+    ],
+    "risk_factors": [
+      "Traveling to endemic areas (South Asia, Africa)",
+      "Drinking untreated water",
+      "Poor sanitation conditions",
+      "Close contact with infected persons",
+      "Eating street food in endemic areas"
+    ],
+    "prevention": [
+      "Get typhoid vaccine before traveling to endemic areas",
+      "Drink only bottled or boiled water",
+      "Avoid raw fruits and vegetables unless peeled yourself",
+      "Eat thoroughly cooked hot foods",
+      "Wash hands frequently",
+      "Avoid ice from questionable water sources"
+    ],
+    "home_remedies": [
+      "Complete bed rest is crucial",
+      "Drink plenty of fluids (boiled water, fresh juices, coconut water)",
+      "Eat easily digestible foods (rice porridge, boiled vegetables)",
+      "Drink buttermilk for easier digestion",
+      "Cold compresses for fever",
+      "Banana and apple for energy and nutrition",
+      "Avoid spicy and oily foods"
+    ],
+    "general_advice": [
+      "Antibiotics are essential \u2014 complete the full course as prescribed",
+      "Fluid replacement therapy if dehydrated",
+      "Bland, high-calorie diet recommended",
+      "Monitor for intestinal complications",
+      "Stool cultures to confirm when no longer a carrier"
+    ],
+    "when_to_see_doctor": [
+      "Persistent high fever",
+      "Severe abdominal pain or bloating",
+      "Blood in stool",
+      "Extreme weakness",
+      "Confusion or delirium",
+      "Inability to keep fluids down",
+      "Symptoms worsening despite treatment"
+    ],
+    "clinical_treatments": [
+      "Antibiotics (e.g., Ciprofloxacin, Azithromycin, or Ceftriaxone)",
+      "Intravenous fluids for severe dehydration",
+      "Surgery in case of intestinal perforation"
+    ]
+  },
+  "Tuberculosis": {
+    "description": "Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis that primarily affects the lungs but can affect other parts of the body. It spreads through airborne droplets when an infected person coughs or sneezes.",
+    "causes": [
+      "Mycobacterium tuberculosis bacteria",
+      "Airborne transmission through coughing, sneezing, or talking",
+      "Close prolonged contact with infected individuals"
+    ],
+    "common_symptoms": [
+      "Persistent cough lasting 3+ weeks",
+      "Coughing up blood or sputum",
+      "Chest pain",
+      "Unintentional weight loss",
+      "Fatigue",
+      "Fever and night sweats",
+      "Loss of appetite",
+      "Chills"
+    ],
+    "risk_factors": [
+      "Weakened immune system (HIV/AIDS)",
+      "Close contact with TB patients",
+      "Malnutrition",
+      "Living in crowded conditions",
+      "Healthcare workers",
+      "Substance abuse",
+      "Diabetes"
+    ],
+    "prevention": [
+      "BCG vaccination (in endemic countries)",
+      "Good ventilation in living spaces",
+      "Wear masks around TB patients",
+      "Complete treatment if infected",
+      "Regular screening for high-risk groups",
+      "Practice good respiratory hygiene"
+    ],
+    "home_remedies": [
+      "Nutritious diet rich in protein, vitamins, and minerals",
+      "Garlic (has antimicrobial properties)",
+      "Green tea for its antioxidant benefits",
+      "Fresh fruit juices for vitamin C",
+      "Adequate rest and sleep",
+      "Sunlight exposure for vitamin D",
+      "Avoid smoking and alcohol"
+    ],
+    "general_advice": [
+      "TB requires prescribed antibiotics for 6-9 months minimum",
+      "NEVER stop medication early even if feeling better",
+      "Directly Observed Therapy (DOT) may be recommended",
+      "Regular follow-up tests to monitor progress",
+      "Multidrug-resistant TB requires specialized treatment"
+    ],
+    "when_to_see_doctor": [
+      "Cough persisting more than 3 weeks",
+      "Coughing up blood",
+      "Unexplained weight loss and night sweats",
+      "Chest pain",
+      "Exposure to someone with active TB",
+      "Positive TB skin test",
+      "Symptoms worsening during treatment"
+    ],
+    "clinical_treatments": [
+      "Long-term antibiotic regimen (e.g., Isoniazid, Rifampin, Ethambutol, Pyrazinamide) for 6-9 months",
+      "Directly observed therapy (DOT)"
+    ]
+  },
+  "Asthma": {
+    "description": "Asthma is a chronic respiratory condition in which the airways become inflamed, narrow, and swell, producing extra mucus. This makes breathing difficult and triggers coughing, wheezing, and shortness of breath.",
+    "causes": [
+      "Genetic predisposition",
+      "Environmental allergens (dust mites, pollen, pet dander)",
+      "Respiratory infections",
+      "Air pollution and irritants",
+      "Exercise-induced triggers",
+      "Occupational exposure to chemicals/dust"
+    ],
+    "common_symptoms": [
+      "Shortness of breath",
+      "Wheezing (especially when exhaling)",
+      "Chest tightness",
+      "Chronic cough (especially at night or early morning)",
+      "Difficulty sleeping due to breathing problems",
+      "Fatigue during exercise"
+    ],
+    "risk_factors": [
+      "Family history of asthma or allergies",
+      "Childhood respiratory infections",
+      "Exposure to secondhand smoke",
+      "Obesity",
+      "Occupational chemical exposure",
+      "Air pollution exposure",
+      "Allergic conditions (eczema, hay fever)"
+    ],
+    "prevention": [
+      "Identify and avoid triggers",
+      "Use air purifiers indoors",
+      "Keep home clean and dust-free",
+      "Avoid smoking and secondhand smoke",
+      "Follow your asthma action plan",
+      "Get flu and pneumonia vaccines",
+      "Exercise regularly with proper warm-up"
+    ],
+    "home_remedies": [
+      "Practice breathing exercises (pursed lip and diaphragmatic breathing)",
+      "Drink warm fluids to thin mucus",
+      "Inhale steam with eucalyptus oil",
+      "Stay in humid environments",
+      "Coffee or caffeinated tea (caffeine is a mild bronchodilator)",
+      "Omega-3 rich foods (fish, flaxseeds)",
+      "Maintain clean indoor air"
+    ],
+    "general_advice": [
+      "Use prescribed inhalers (rescue and controller) as directed",
+      "Keep rescue inhaler accessible at all times",
+      "Follow your asthma action plan",
+      "Use a peak flow meter to monitor lung function",
+      "Take controller medications daily, not just during attacks",
+      "Avoid known allergens and irritants"
+    ],
+    "when_to_see_doctor": [
+      "Rescue inhaler not providing relief",
+      "Difficulty speaking or walking due to breathlessness",
+      "Lips or fingernails turning blue",
+      "Symptoms worsening rapidly",
+      "Peak flow readings in the red zone",
+      "Frequent nighttime awakenings due to asthma"
+    ],
+    "clinical_treatments": [
+      "Inhaled corticosteroids (e.g., Fluticasone)",
+      "Short-acting beta agonists (e.g., Albuterol) for rescue",
+      "Long-acting beta agonists (LABAs)",
+      "Leukotriene modifiers"
+    ]
+  },
+  "Bronchitis": {
+    "description": "Bronchitis is an inflammation of the lining of the bronchial tubes, which carry air to and from the lungs. Acute bronchitis is common and often develops from a cold or respiratory infection.",
+    "causes": [
+      "Viruses (same viruses that cause colds and flu)",
+      "Bacteria (less common)",
+      "Exposure to tobacco smoke",
+      "Air pollution and dust",
+      "Chemical fumes"
+    ],
+    "common_symptoms": [
+      "Persistent cough (may produce mucus)",
+      "Chest discomfort",
+      "Fatigue",
+      "Shortness of breath",
+      "Slight fever and chills",
+      "Sore throat",
+      "Body aches",
+      "Wheezing"
+    ],
+    "risk_factors": [
+      "Cigarette smoking",
+      "Weakened immune system",
+      "Exposure to irritants at work",
+      "Gastric reflux",
+      "Living with a smoker",
+      "Frequent respiratory infections"
+    ],
+    "prevention": [
+      "Don't smoke or quit smoking",
+      "Get flu and pneumonia vaccines",
+      "Wash hands frequently",
+      "Wear a mask around irritants",
+      "Avoid people who are sick",
+      "Maintain good indoor air quality"
+    ],
+    "home_remedies": [
+      "Rest and stay hydrated",
+      "Use a humidifier to moisten the air",
+      "Drink warm liquids (herbal tea, broth, warm water with honey)",
+      "Gargle with salt water for throat relief",
+      "Steam inhalation",
+      "Honey (1-2 teaspoons) to soothe cough",
+      "Avoid dairy products which may thicken mucus"
+    ],
+    "general_advice": [
+      "Most acute bronchitis resolves on its own in 1-3 weeks",
+      "Cough suppressants for nighttime relief",
+      "Expectorants to help thin mucus",
+      "Acetaminophen or ibuprofen for fever and discomfort",
+      "Avoid antibiotics unless bacterial infection is confirmed"
+    ],
+    "when_to_see_doctor": [
+      "Cough lasting more than 3 weeks",
+      "Fever above 100.4\u00b0F (38\u00b0C) for more than 3 days",
+      "Coughing up blood",
+      "Shortness of breath or wheezing",
+      "Recurrent bronchitis episodes",
+      "Symptoms of pneumonia"
+    ],
+    "clinical_treatments": [
+      "Bronchodilators (inhalers) to open airways",
+      "Cough suppressants",
+      "Antibiotics (only if a bacterial infection is identified)",
+      "Corticosteroids to reduce inflammation"
+    ]
+  },
+  "Gastroenteritis": {
+    "description": "Gastroenteritis (stomach flu) is an inflammation of the stomach and intestines, typically resulting from bacterial or viral infection. It causes watery diarrhea, abdominal cramps, nausea, vomiting, and sometimes fever.",
+    "causes": [
+      "Viruses (norovirus, rotavirus)",
+      "Bacteria (Salmonella, E. coli, Campylobacter)",
+      "Parasites",
+      "Contaminated food or water",
+      "Contact with infected persons"
+    ],
+    "common_symptoms": [
+      "Watery diarrhea",
+      "Nausea and vomiting",
+      "Abdominal cramps and pain",
+      "Low-grade fever",
+      "Muscle aches",
+      "Headache",
+      "Loss of appetite",
+      "Dehydration"
+    ],
+    "risk_factors": [
+      "Young children and elderly",
+      "Weakened immune system",
+      "Living in close quarters",
+      "Eating undercooked food",
+      "Poor hand hygiene",
+      "Travel to developing countries"
+    ],
+    "prevention": [
+      "Wash hands thoroughly and frequently",
+      "Cook food thoroughly",
+      "Drink clean, safe water",
+      "Avoid sharing utensils with sick persons",
+      "Clean and disinfect contaminated surfaces",
+      "Get rotavirus vaccine for infants"
+    ],
+    "home_remedies": [
+      "Oral rehydration solution (ORS) to prevent dehydration",
+      "Clear fluids \u2014 water, broth, and coconut water",
+      "BRAT diet (Bananas, Rice, Applesauce, Toast)",
+      "Ginger tea for nausea",
+      "Avoid dairy, caffeine, and spicy foods",
+      "Small, frequent meals as tolerated",
+      "Probiotics (yogurt) when symptoms improve"
+    ],
+    "general_advice": [
+      "Focus on hydration \u2014 small, frequent sips",
+      "Electrolyte replacement drinks",
+      "Anti-diarrheal medications for adults if needed",
+      "Avoid solid foods until vomiting stops",
+      "Gradually reintroduce bland foods",
+      "Rest as much as possible"
+    ],
+    "when_to_see_doctor": [
+      "Signs of dehydration (dry mouth, dark urine, dizziness)",
+      "Blood in vomit or stool",
+      "Fever above 104\u00b0F (40\u00b0C)",
+      "Diarrhea lasting more than 3 days",
+      "Inability to keep fluids down for 24 hours",
+      "Severe abdominal pain"
+    ],
+    "clinical_treatments": [
+      "Oral Rehydration Salts (ORS)",
+      "Anti-emetics (e.g., Ondansetron) for nausea",
+      "Anti-diarrheal medication (e.g., Loperamide) in specific cases",
+      "IV fluids for severe dehydration"
+    ]
+  },
+  "Urinary Tract Infection": {
+    "description": "A urinary tract infection (UTI) is an infection in any part of the urinary system \u2014 kidneys, ureters, bladder, and urethra. Most infections involve the lower urinary tract (bladder and urethra).",
+    "causes": [
+      "Bacteria (usually E. coli) entering the urinary tract",
+      "Sexual activity",
+      "Catheter use",
+      "Urinary tract abnormalities",
+      "Suppressed immune system",
+      "Blockages in the urinary tract"
+    ],
+    "common_symptoms": [
+      "Burning sensation during urination",
+      "Frequent urge to urinate",
+      "Passing small amounts of urine frequently",
+      "Cloudy or dark urine",
+      "Strong-smelling urine",
+      "Pelvic pain (in women)",
+      "Blood in urine"
+    ],
+    "risk_factors": [
+      "Female anatomy (shorter urethra)",
+      "Sexual activity",
+      "Menopause",
+      "Urinary tract abnormalities",
+      "Suppressed immune system",
+      "Catheter use",
+      "Recent urinary procedure"
+    ],
+    "prevention": [
+      "Drink plenty of water",
+      "Urinate after sexual intercourse",
+      "Wipe from front to back",
+      "Avoid irritating feminine products",
+      "Change birth control method if causing recurring UTIs",
+      "Don't hold urine for long periods",
+      "Wear cotton underwear"
+    ],
+    "home_remedies": [
+      "Drink plenty of water (8-10 glasses daily)",
+      "Cranberry juice or supplements (may help prevent recurrence)",
+      "Drink unsweetened coconut water",
+      "Apply heating pad to abdomen for pain",
+      "Consume probiotics (yogurt, kefir)",
+      "Vitamin C-rich foods to acidify urine",
+      "Avoid caffeine, alcohol, and spicy foods"
+    ],
+    "general_advice": [
+      "Antibiotics are typically needed for bacterial UTIs",
+      "Complete the full course of antibiotics",
+      "Pain relievers for discomfort",
+      "Phenazopyridine for urinary pain (turns urine orange)",
+      "Drink plenty of fluids during treatment"
+    ],
+    "when_to_see_doctor": [
+      "Symptoms of UTI should always be evaluated by a doctor",
+      "Back pain or fever (may indicate kidney infection)",
+      "Blood in urine",
+      "Recurring UTIs (3 or more per year)",
+      "Symptoms not improving with treatment",
+      "Pregnancy with UTI symptoms"
+    ],
+    "clinical_treatments": [
+      "Antibiotics (e.g., Nitrofurantoin, Trimethoprim-sulfamethoxazole, or Fosfomycin)",
+      "Phenazopyridine for urinary pain relief"
+    ]
+  },
+  "Anemia": {
+    "description": "Anemia is a condition where you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues. It can make you feel tired, weak, and short of breath.",
+    "causes": [
+      "Iron deficiency (most common)",
+      "Vitamin B12 or folate deficiency",
+      "Chronic diseases (kidney disease, cancer)",
+      "Inherited conditions (sickle cell, thalassemia)",
+      "Blood loss (heavy menstruation, internal bleeding)",
+      "Bone marrow disorders"
+    ],
+    "common_symptoms": [
+      "Fatigue and weakness",
+      "Pale or yellowish skin",
+      "Irregular heartbeat",
+      "Shortness of breath",
+      "Dizziness or lightheadedness",
+      "Cold hands and feet",
+      "Headache",
+      "Brittle nails"
+    ],
+    "risk_factors": [
+      "Poor diet lacking iron, B12, or folate",
+      "Intestinal disorders affecting nutrient absorption",
+      "Heavy menstruation",
+      "Pregnancy",
+      "Chronic conditions",
+      "Family history of inherited anemias",
+      "Age (over 65)"
+    ],
+    "prevention": [
+      "Eat iron-rich foods (spinach, red meat, beans, fortified cereals)",
+      "Consume vitamin C to enhance iron absorption",
+      "Include B12-rich foods (eggs, dairy, meat)",
+      "Folate-rich foods (leafy greens, citrus fruits)",
+      "Regular health checkups and blood tests",
+      "Prenatal vitamins during pregnancy"
+    ],
+    "home_remedies": [
+      "Increase iron-rich foods in diet (spinach, lentils, tofu, red meat)",
+      "Eat vitamin C-rich foods alongside iron foods for better absorption",
+      "Beetroot juice for natural iron boost",
+      "Pomegranate juice for iron and vitamin C",
+      "Cook in cast iron cookware",
+      "Blackstrap molasses (rich in iron)",
+      "Dates and raisins as daily snacks"
+    ],
+    "general_advice": [
+      "Iron supplements if recommended by doctor",
+      "B12 injections for pernicious anemia",
+      "Folic acid supplements if needed",
+      "Treat underlying causes",
+      "Avoid tea and coffee with meals (inhibit iron absorption)",
+      "Regular blood count monitoring"
+    ],
+    "when_to_see_doctor": [
+      "Persistent fatigue and weakness",
+      "Shortness of breath during normal activities",
+      "Rapid or irregular heartbeat",
+      "Pale appearance",
+      "Dizziness or fainting",
+      "Unusual cravings for non-food items (pica)",
+      "Heavy menstrual bleeding"
+    ],
+    "clinical_treatments": [
+      "Iron supplements (ferrous sulfate)",
+      "Vitamin B12 injections",
+      "Folic acid supplements",
+      "Erythropoiesis-stimulating agents (ESAs) in severe chronic cases"
+    ]
+  },
+  "Arthritis": {
+    "description": "Arthritis is inflammation of one or more joints, causing pain, swelling, and stiffness that typically worsen with age. The most common types are osteoarthritis and rheumatoid arthritis.",
+    "causes": [
+      "Osteoarthritis: wear and tear of joint cartilage",
+      "Rheumatoid arthritis: immune system attacks joint lining",
+      "Gout: uric acid crystal buildup",
+      "Infections",
+      "Underlying diseases (lupus, psoriasis)"
+    ],
+    "common_symptoms": [
+      "Joint pain and tenderness",
+      "Stiffness (especially in the morning)",
+      "Swelling around joints",
+      "Reduced range of motion",
+      "Redness around affected joints",
+      "Fatigue",
+      "Muscle weakness near joints"
+    ],
+    "risk_factors": [
+      "Age (risk increases with age)",
+      "Family history",
+      "Previous joint injury",
+      "Obesity (extra stress on joints)",
+      "Gender (women more likely to develop RA)",
+      "Smoking",
+      "Occupations involving repetitive joint stress"
+    ],
+    "prevention": [
+      "Maintain a healthy weight",
+      "Exercise regularly with low-impact activities",
+      "Protect joints from injury",
+      "Don't smoke",
+      "Eat anti-inflammatory foods",
+      "Stay physically active",
+      "Use proper body mechanics when lifting"
+    ],
+    "home_remedies": [
+      "Warm compresses for stiff joints",
+      "Cold packs for swollen, inflamed joints",
+      "Gentle exercises (swimming, walking, yoga)",
+      "Turmeric and ginger tea (anti-inflammatory)",
+      "Epsom salt bath for pain relief",
+      "Omega-3 fatty acids (fish oil supplements)",
+      "Massage with warm sesame or coconut oil",
+      "Maintain a healthy weight to reduce joint stress"
+    ],
+    "general_advice": [
+      "Over-the-counter NSAIDs (ibuprofen, naproxen) for pain",
+      "Topical pain relievers (creams, patches)",
+      "Physical therapy for joint mobility",
+      "Assistive devices if needed",
+      "Disease-modifying drugs for rheumatoid arthritis",
+      "Regular low-impact exercise"
+    ],
+    "when_to_see_doctor": [
+      "Joint pain lasting more than 3 days",
+      "Multiple swollen joints",
+      "Difficulty with daily activities",
+      "Joint deformity",
+      "Redness and warmth in joint area",
+      "Fever with joint symptoms",
+      "Sudden intense joint pain (may indicate gout)"
+    ],
+    "clinical_treatments": [
+      "NSAIDs (e.g., Ibuprofen, Naproxen, Celecoxib)",
+      "Corticosteroids (injections or oral)",
+      "Disease-modifying antirheumatic drugs (DMARDs) like Methotrexate for RA",
+      "Biologic response modifiers"
+    ]
+  },
+  "Chicken Pox": {
+    "description": "Chicken pox (varicella) is a highly contagious viral infection causing an itchy, blister-like rash. It mainly affects children but can occur at any age and is usually more severe in adults.",
+    "causes": [
+      "Varicella-zoster virus (VZV)",
+      "Spread through direct contact with rash",
+      "Airborne transmission through coughing and sneezing",
+      "Highly contagious from 1-2 days before rash appears until all blisters have crusted"
+    ],
+    "common_symptoms": [
+      "Itchy blister-like rash",
+      "Fever",
+      "Fatigue",
+      "Loss of appetite",
+      "Headache",
+      "Body aches",
+      "Rash progresses from red spots to blisters to crusted scabs"
+    ],
+    "risk_factors": [
+      "Never had chicken pox or vaccination",
+      "Age (more severe in adults)",
+      "Weakened immune system",
+      "Pregnant women (risk to baby)",
+      "Newborns",
+      "Healthcare workers"
+    ],
+    "prevention": [
+      "Varicella (chicken pox) vaccine",
+      "Avoid contact with infected individuals",
+      "Maintain good hygiene",
+      "Isolate infected persons until all blisters have crusted"
+    ],
+    "home_remedies": [
+      "Oatmeal baths to reduce itching",
+      "Calamine lotion on blisters",
+      "Cool, damp compresses",
+      "Keep nails trimmed short to prevent scratching",
+      "Wear loose, cotton clothing",
+      "Baking soda bath",
+      "Drink plenty of fluids",
+      "Eat soft, bland foods if mouth sores present"
+    ],
+    "general_advice": [
+      "Acetaminophen for fever (NOT aspirin \u2014 risk of Reye's syndrome)",
+      "Antihistamines for itching",
+      "Antiviral medication (acyclovir) may be prescribed for adults or severe cases",
+      "Keep rash clean and dry",
+      "Avoid scratching to prevent scarring and infection"
+    ],
+    "when_to_see_doctor": [
+      "High fever (above 102\u00b0F/39\u00b0C) lasting more than 4 days",
+      "Rash spreading to eyes",
+      "Rash becoming warm, tender, or producing pus (secondary infection)",
+      "Difficulty waking up or confusion",
+      "Stiff neck",
+      "Difficulty breathing",
+      "Severe cough"
+    ],
+    "clinical_treatments": [
+      "Antiviral medications (e.g., Acyclovir) for high-risk patients",
+      "Calamine lotion and colloidal oatmeal baths",
+      "Antihistamines for severe itching",
+      "Acetaminophen for fever (Avoid Aspirin)"
+    ]
+  },
+  "Jaundice": {
+    "description": "Jaundice is a condition where the skin and whites of the eyes turn yellow due to elevated bilirubin levels in the blood. It is not a disease itself but a sign of an underlying condition affecting the liver, bile ducts, or blood.",
+    "causes": [
+      "Hepatitis (viral infection of the liver)",
+      "Gallstones blocking the bile duct",
+      "Liver cirrhosis",
+      "Hemolytic anemia (rapid breakdown of red blood cells)",
+      "Pancreatic cancer",
+      "Certain medications"
+    ],
+    "common_symptoms": [
+      "Yellow skin and eyes",
+      "Dark-colored urine",
+      "Pale-colored stool",
+      "Itchy skin",
+      "Abdominal pain",
+      "Fatigue",
+      "Nausea and vomiting",
+      "Weight loss",
+      "Fever"
+    ],
+    "risk_factors": [
+      "Hepatitis infection",
+      "Excessive alcohol consumption",
+      "Liver disease",
+      "Gallstones",
+      "Certain genetic conditions",
+      "Newborns (physiological jaundice)"
+    ],
+    "prevention": [
+      "Get vaccinated for hepatitis A and B",
+      "Practice safe sex",
+      "Avoid excessive alcohol consumption",
+      "Maintain a healthy diet",
+      "Avoid contaminated food and water",
+      "Be cautious with medications that affect the liver"
+    ],
+    "home_remedies": [
+      "Drink sugarcane juice for liver support",
+      "Lemon juice in warm water every morning",
+      "Eat radish leaves and juice",
+      "Tomato juice with a pinch of salt and pepper",
+      "Barley water to flush toxins",
+      "Avoid fatty, oily, and spicy foods",
+      "Eat light meals \u2014 rice, boiled vegetables, fruits"
+    ],
+    "general_advice": [
+      "Treatment depends on the underlying cause",
+      "Rest is important for recovery",
+      "Avoid alcohol completely",
+      "Medications as prescribed for the underlying condition",
+      "Phototherapy for newborn jaundice",
+      "Surgery may be needed for gallstone-related jaundice"
+    ],
+    "when_to_see_doctor": [
+      "Any yellowing of skin or eyes should be evaluated",
+      "Dark urine and pale stools",
+      "Abdominal pain especially in the upper right area",
+      "Fever with jaundice",
+      "Rapid weight loss",
+      "Severe itching",
+      "Confusion or altered mental state"
+    ],
+    "clinical_treatments": [
+      "Treatment targets the underlying cause (e.g., antiviral meds for Hepatitis)",
+      "Phototherapy (primarily for newborns)",
+      "Surgical removal of gallstones if they are the cause",
+      "Liver transplant in cases of severe liver failure"
+    ]
+  },
+  "Hepatitis": {
+    "description": "Hepatitis is inflammation of the liver, commonly caused by viral infections (A, B, C, D, E). It can be acute or chronic and may lead to liver scarring (cirrhosis), liver failure, or liver cancer.",
+    "causes": [
+      "Hepatitis A: contaminated food/water",
+      "Hepatitis B: body fluids (blood, sexual contact)",
+      "Hepatitis C: blood-to-blood contact",
+      "Alcoholic hepatitis",
+      "Autoimmune hepatitis",
+      "Certain medications and toxins"
+    ],
+    "common_symptoms": [
+      "Fatigue",
+      "Nausea and vomiting",
+      "Abdominal pain (upper right)",
+      "Dark urine",
+      "Pale stool",
+      "Joint pain",
+      "Jaundice (yellow skin and eyes)",
+      "Loss of appetite",
+      "Fever"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Sharing needles",
+      "Blood transfusion before 1992",
+      "Travel to endemic areas",
+      "Excessive alcohol use",
+      "Healthcare workers",
+      "Living with infected person"
+    ],
+    "prevention": [
+      "Hepatitis A and B vaccination",
+      "Practice safe sex",
+      "Don't share needles or personal items",
+      "Ensure food and water safety",
+      "Limit alcohol consumption",
+      "Use gloves when handling blood"
+    ],
+    "home_remedies": [
+      "Adequate rest for liver recovery",
+      "Avoid alcohol completely",
+      "Eat a balanced, nutritious diet",
+      "Milk thistle supplements (consult doctor first)",
+      "Stay well hydrated",
+      "Licorice root tea (in moderation)",
+      "Avoid processed and fatty foods",
+      "Green leafy vegetables for liver health"
+    ],
+    "general_advice": [
+      "Antiviral medications for hepatitis B and C",
+      "Hepatitis A typically resolves on its own",
+      "Regular liver function monitoring",
+      "Complete vaccination series",
+      "Screen sexual partners",
+      "Avoid alcohol and hepatotoxic drugs"
+    ],
+    "when_to_see_doctor": [
+      "Any symptoms of hepatitis should be evaluated",
+      "Jaundice",
+      "Severe abdominal pain",
+      "Dark urine or very pale stools",
+      "Extreme fatigue lasting weeks",
+      "Known exposure to hepatitis",
+      "Persistent nausea and vomiting"
+    ],
+    "clinical_treatments": [
+      "Antiviral medications (e.g., Entecavir, Tenofovir for Hep B; Sofosbuvir for Hep C)",
+      "Interferon injections",
+      "Supportive care and monitoring",
+      "Liver transplantation for end-stage liver disease"
+    ]
+  },
+  "Allergic Rhinitis": {
+    "description": "Allergic rhinitis (hay fever) is an allergic response to allergens like pollen, dust mites, pet dander, or mold. It causes cold-like symptoms such as sneezing, congestion, and itchy eyes.",
+    "causes": [
+      "Pollen (seasonal)",
+      "Dust mites (perennial)",
+      "Pet dander",
+      "Mold spores",
+      "Cockroach droppings",
+      "Immune system overreaction to harmless airborne particles"
+    ],
+    "common_symptoms": [
+      "Sneezing",
+      "Runny or stuffy nose",
+      "Itchy eyes, nose, mouth, or throat",
+      "Watery eyes",
+      "Postnasal drip",
+      "Cough",
+      "Fatigue",
+      "Dark circles under eyes"
+    ],
+    "risk_factors": [
+      "Family history of allergies",
+      "Having other allergies or asthma",
+      "Exposure to secondhand smoke",
+      "Male sex (in childhood)",
+      "Being firstborn",
+      "Exposure to allergens at work"
+    ],
+    "prevention": [
+      "Monitor pollen counts and stay indoors when high",
+      "Keep windows closed during allergy season",
+      "Use HEPA air filters",
+      "Shower after being outdoors",
+      "Wash bedding in hot water weekly",
+      "Use dust-mite-proof covers on bedding",
+      "Vacuum regularly with HEPA filter vacuum"
+    ],
+    "home_remedies": [
+      "Saline nasal rinse (neti pot)",
+      "Steam inhalation",
+      "Local honey (may help with pollen allergies)",
+      "Peppermint tea",
+      "Keep home clean and dust-free",
+      "Use HEPA air purifiers",
+      "Butterbur supplements (consult doctor)",
+      "Turmeric as natural anti-inflammatory"
+    ],
+    "general_advice": [
+      "Antihistamines (cetirizine, loratadine) for symptom relief",
+      "Nasal corticosteroid sprays for persistent symptoms",
+      "Decongestants for short-term use",
+      "Allergy immunotherapy for severe cases",
+      "Eye drops for itchy, watery eyes"
+    ],
+    "when_to_see_doctor": [
+      "Symptoms not controlled with OTC medications",
+      "Symptoms affecting sleep or daily activities",
+      "Signs of sinus infection",
+      "Asthma symptoms worsening",
+      "Need for allergy testing",
+      "Considering immunotherapy"
+    ],
+    "clinical_treatments": [
+      "Intranasal corticosteroids (e.g., Fluticasone spray)",
+      "Oral antihistamines (e.g., Cetirizine, Loratadine)",
+      "Decongestants",
+      "Allergen immunotherapy (allergy shots)"
+    ]
+  },
+  "Sinusitis": {
+    "description": "Sinusitis is inflammation or swelling of the tissue lining the sinuses. When sinuses become blocked and filled with fluid, germs can grow and cause infection. It can be acute (lasting less than 4 weeks) or chronic.",
+    "causes": [
+      "Common cold virus",
+      "Bacterial infection",
+      "Allergies",
+      "Nasal polyps",
+      "Deviated nasal septum",
+      "Immune system disorders"
+    ],
+    "common_symptoms": [
+      "Facial pain or pressure",
+      "Nasal congestion",
+      "Thick, discolored nasal discharge",
+      "Reduced sense of smell and taste",
+      "Headache",
+      "Post-nasal drip",
+      "Cough",
+      "Bad breath",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Allergic rhinitis",
+      "Nasal polyps",
+      "Deviated septum",
+      "Weakened immune system",
+      "Smoking",
+      "Dental infections",
+      "Frequent swimming"
+    ],
+    "prevention": [
+      "Manage allergies effectively",
+      "Avoid smoking and secondhand smoke",
+      "Wash hands frequently",
+      "Use a humidifier",
+      "Avoid diving",
+      "Treat colds promptly",
+      "Stay hydrated"
+    ],
+    "home_remedies": [
+      "Steam inhalation with eucalyptus or peppermint",
+      "Warm compresses on face for pain relief",
+      "Saline nasal irrigation (neti pot)",
+      "Stay well hydrated",
+      "Spicy foods to help clear sinuses",
+      "Elevate head while sleeping",
+      "Apple cider vinegar in warm water",
+      "Ginger and turmeric tea"
+    ],
+    "general_advice": [
+      "Decongestant nasal sprays (limit to 3 days)",
+      "Saline sprays for regular use",
+      "Pain relievers for facial pain and headache",
+      "Antibiotics if bacterial infection confirmed",
+      "Nasal corticosteroid sprays for chronic sinusitis",
+      "Surgery may be needed for chronic cases"
+    ],
+    "when_to_see_doctor": [
+      "Symptoms lasting more than 10 days",
+      "Severe facial pain or headache",
+      "Fever above 101\u00b0F (38.3\u00b0C)",
+      "Symptoms worsening after initial improvement",
+      "Recurring sinus infections",
+      "Vision changes",
+      "Swelling around the eyes"
+    ],
+    "clinical_treatments": [
+      "Nasal corticosteroids",
+      "Saline nasal irrigation",
+      "Antibiotics (e.g., Amoxicillin) if bacterial infection is suspected",
+      "Decongestants (short-term use)"
+    ]
+  },
+  "Vertigo": {
+    "description": "Vertigo is the sensation that you or your surroundings are spinning or moving when there is no actual movement. It is a symptom of various conditions, most commonly related to the inner ear.",
+    "causes": [
+      "Benign Paroxysmal Positional Vertigo (BPPV) \u2014 most common",
+      "Meniere's disease",
+      "Vestibular neuritis (inner ear infection)",
+      "Migraine-associated vertigo",
+      "Head or neck injury",
+      "Certain medications"
+    ],
+    "common_symptoms": [
+      "Spinning sensation",
+      "Loss of balance",
+      "Nausea and vomiting",
+      "Unsteady walking",
+      "Hearing changes",
+      "Ringing in ears (tinnitus)",
+      "Sweating",
+      "Abnormal eye movements"
+    ],
+    "risk_factors": [
+      "Age (over 50)",
+      "Head injury",
+      "Inner ear infections",
+      "Family history of vertigo",
+      "Migraines",
+      "Certain medications",
+      "Prolonged bed rest"
+    ],
+    "prevention": [
+      "Avoid sudden head movements",
+      "Sit down immediately if feeling dizzy",
+      "Use good lighting",
+      "Walk with a cane if unsteady",
+      "Avoid driving during episodes",
+      "Reduce stress",
+      "Get adequate sleep"
+    ],
+    "home_remedies": [
+      "Epley maneuver for BPPV (ask doctor to demonstrate)",
+      "Ginger tea for nausea",
+      "Stay hydrated",
+      "Avoid caffeine and alcohol",
+      "Sleep with head slightly elevated",
+      "Practice balance exercises when symptom-free",
+      "Deep breathing exercises during episodes",
+      "Almonds and watermelon seeds (traditional remedy)"
+    ],
+    "general_advice": [
+      "Meclizine or dimenhydrinate for motion sickness/nausea",
+      "Vestibular rehabilitation therapy",
+      "Medications for Meniere's disease",
+      "Physical therapy exercises",
+      "Avoid rapid position changes"
+    ],
+    "when_to_see_doctor": [
+      "Severe or prolonged vertigo episodes",
+      "Vertigo with headache, fever, or hearing loss",
+      "Difficulty walking",
+      "Fainting episodes",
+      "Numbness or weakness",
+      "Double vision",
+      "Chest pain or rapid heartbeat with vertigo"
+    ],
+    "clinical_treatments": [
+      "Vestibular rehabilitation therapy (VRT)",
+      "Epley maneuver (for BPPV)",
+      "Meclizine or Prochlorperazine for nausea/dizziness",
+      "Diuretics (for Meniere's disease)"
+    ]
+  },
+  "Acne": {
+    "description": "Acne is a skin condition that occurs when hair follicles become clogged with oil and dead skin cells. It commonly appears on the face, forehead, chest, upper back, and shoulders.",
+    "causes": [
+      "Excess oil (sebum) production",
+      "Clogged hair follicles",
+      "Bacteria (Propionibacterium acnes)",
+      "Hormonal changes",
+      "Certain medications",
+      "Diet (high glycemic foods, dairy)"
+    ],
+    "common_symptoms": [
+      "Whiteheads",
+      "Blackheads",
+      "Papules (small red bumps)",
+      "Pus-filled pimples",
+      "Large painful lumps under the skin (nodules)",
+      "Cystic lesions",
+      "Skin redness and inflammation"
+    ],
+    "risk_factors": [
+      "Teenage and young adult years",
+      "Hormonal changes (puberty, menstruation, pregnancy)",
+      "Family history",
+      "Greasy or oily substances on skin",
+      "Friction or pressure on skin",
+      "Stress"
+    ],
+    "prevention": [
+      "Wash face twice daily with gentle cleanser",
+      "Don't touch or pick at your face",
+      "Use non-comedogenic skincare products",
+      "Remove makeup before sleeping",
+      "Shower after exercise",
+      "Limit dairy and high-glycemic foods",
+      "Change pillowcases regularly"
+    ],
+    "home_remedies": [
+      "Tea tree oil (diluted) as spot treatment",
+      "Aloe vera gel for inflammation",
+      "Honey and cinnamon mask",
+      "Green tea extract applied topically",
+      "Ice cubes on inflamed pimples",
+      "Apple cider vinegar (diluted) as toner",
+      "Zinc-rich foods (pumpkin seeds, chickpeas)",
+      "Stay hydrated and eat a balanced diet"
+    ],
+    "general_advice": [
+      "Benzoyl peroxide for killing acne bacteria",
+      "Salicylic acid for unclogging pores",
+      "Retinoids (adapalene) for preventing clogged pores",
+      "Don't pop or squeeze pimples",
+      "Be patient \u2014 acne treatments take 6-8 weeks to show results",
+      "Use oil-free, non-comedogenic moisturizer and sunscreen"
+    ],
+    "when_to_see_doctor": [
+      "Severe or cystic acne",
+      "Over-the-counter products not helping after 2-3 months",
+      "Acne leaving scars or dark spots",
+      "Acne affecting self-esteem or mental health",
+      "Sudden severe acne breakout",
+      "Acne in women with other signs of hormonal imbalance"
+    ],
+    "clinical_treatments": [
+      "Topical retinoids (e.g., Tretinoin, Adapalene)",
+      "Benzoyl peroxide",
+      "Topical or oral antibiotics (e.g., Doxycycline)",
+      "Isotretinoin for severe cystic acne",
+      "Oral contraceptives (for hormonal acne)"
+    ]
+  },
+  "Eczema": {
+    "description": "Eczema (atopic dermatitis) is a chronic skin condition that makes skin red, inflamed, itchy, and cracked. It is common in children but can occur at any age and tends to flare periodically.",
+    "causes": [
+      "Overactive immune system response",
+      "Genetic factors (filaggrin gene mutations)",
+      "Environmental triggers",
+      "Allergens",
+      "Irritants (soaps, detergents)",
+      "Stress"
+    ],
+    "common_symptoms": [
+      "Dry, cracked skin",
+      "Intense itching",
+      "Red to brownish-gray patches",
+      "Small raised bumps that may leak fluid",
+      "Thickened, scaly skin",
+      "Raw, sensitive skin from scratching"
+    ],
+    "risk_factors": [
+      "Family history of eczema, allergies, or asthma",
+      "Childhood onset",
+      "Living in dry climates",
+      "Exposure to irritants",
+      "Stress",
+      "Certain occupations (healthcare, hairdressing)"
+    ],
+    "prevention": [
+      "Moisturize skin at least twice daily",
+      "Identify and avoid triggers",
+      "Take shorter, lukewarm baths/showers",
+      "Use gentle, fragrance-free soaps",
+      "Wear soft, breathable fabrics",
+      "Manage stress",
+      "Use a humidifier in dry weather"
+    ],
+    "home_remedies": [
+      "Apply coconut oil to moisturize affected areas",
+      "Oatmeal baths for itching relief",
+      "Aloe vera gel for soothing",
+      "Sunflower seed oil to strengthen skin barrier",
+      "Evening primrose oil supplements",
+      "Wet wrap therapy for flares",
+      "Chamomile tea compress",
+      "Keep nails short to prevent scratching damage"
+    ],
+    "general_advice": [
+      "Emollients and moisturizers as base treatment",
+      "Topical corticosteroids for flares",
+      "Calcineurin inhibitors (tacrolimus, pimecrolimus)",
+      "Antihistamines for nighttime itching",
+      "Avoid harsh soaps and hot water",
+      "Phototherapy for severe cases"
+    ],
+    "when_to_see_doctor": [
+      "Eczema not responding to home care",
+      "Sleep disruption due to itching",
+      "Signs of skin infection (pus, fever, redness)",
+      "Symptoms affecting daily activities",
+      "Sudden worsening of symptoms",
+      "Need for prescription-strength treatment"
+    ],
+    "clinical_treatments": [
+      "Topical corticosteroids (various strengths)",
+      "Calcineurin inhibitors (e.g., Tacrolimus)",
+      "Injectable biologics (e.g., Dupilumab) for severe cases",
+      "Phototherapy"
+    ]
+  },
+  "Psoriasis": {
+    "description": "Psoriasis is a chronic autoimmune condition that causes the rapid buildup of skin cells, resulting in thick, silvery scales and itchy, dry, red patches that can be painful.",
+    "causes": [
+      "Overactive immune system (T cells attack healthy skin cells)",
+      "Genetic predisposition",
+      "Environmental triggers",
+      "Stress",
+      "Infections",
+      "Certain medications"
+    ],
+    "common_symptoms": [
+      "Red patches covered with silvery scales",
+      "Dry, cracked skin that may bleed",
+      "Itching, burning, or soreness",
+      "Thickened or ridged nails",
+      "Stiff and swollen joints",
+      "Patches can range from small spots to large areas"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Stress",
+      "Smoking",
+      "Obesity",
+      "Viral and bacterial infections",
+      "Certain medications (lithium, beta-blockers)",
+      "Heavy alcohol consumption"
+    ],
+    "prevention": [
+      "Manage stress through relaxation techniques",
+      "Maintain a healthy weight",
+      "Avoid smoking and alcohol",
+      "Moisturize skin regularly",
+      "Avoid skin injuries",
+      "Limit sun exposure while getting moderate amounts",
+      "Avoid known trigger medications"
+    ],
+    "home_remedies": [
+      "Regular moisturizing with thick creams or ointments",
+      "Warm baths with Epsom salts, oatmeal, or Dead Sea salts",
+      "Aloe vera gel directly on patches",
+      "Tea tree oil (diluted) for scalp psoriasis",
+      "Omega-3 fatty acids (fish oil)",
+      "Turmeric supplements or paste",
+      "Coconut oil for moisturizing",
+      "Moderate sun exposure (10-15 minutes)"
+    ],
+    "general_advice": [
+      "Topical corticosteroids for mild to moderate psoriasis",
+      "Vitamin D analogues (calcipotriol)",
+      "Coal tar preparations",
+      "Phototherapy (UV light treatment)",
+      "Systemic medications for severe cases",
+      "Biologic drugs for moderate to severe psoriasis"
+    ],
+    "when_to_see_doctor": [
+      "Psoriasis covering large areas of the body",
+      "Joint pain or swelling (psoriatic arthritis)",
+      "Not responding to over-the-counter treatments",
+      "Affecting quality of life",
+      "Signs of infection in psoriasis patches",
+      "Severe flare-ups"
+    ],
+    "clinical_treatments": [
+      "Topical corticosteroids",
+      "Vitamin D analogues (e.g., Calcipotriene)",
+      "Systemic medications (Methotrexate, Cyclosporine)",
+      "Biologic therapies (e.g., Adalimumab, Secukinumab)",
+      "Phototherapy"
+    ]
+  },
+  "Food Poisoning": {
+    "description": "Food poisoning is an illness caused by eating contaminated food. Infectious organisms \u2014 bacteria, viruses, and parasites \u2014 or their toxins are the most common causes.",
+    "causes": [
+      "Bacteria (Salmonella, E. coli, Listeria, Staphylococcus)",
+      "Viruses (norovirus, hepatitis A)",
+      "Parasites",
+      "Improperly stored or cooked food",
+      "Cross-contamination",
+      "Contaminated water"
+    ],
+    "common_symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Watery or bloody diarrhea",
+      "Abdominal pain and cramps",
+      "Fever",
+      "Loss of appetite",
+      "Fatigue",
+      "Headache"
+    ],
+    "risk_factors": [
+      "Eating raw or undercooked food",
+      "Improper food storage",
+      "Elderly, young children, and pregnant women",
+      "Weakened immune system",
+      "Eating at unhygienic establishments",
+      "Not washing hands before eating"
+    ],
+    "prevention": [
+      "Wash hands before handling food",
+      "Cook meat to proper internal temperatures",
+      "Refrigerate perishable foods promptly",
+      "Avoid cross-contamination (use separate cutting boards)",
+      "Wash fruits and vegetables thoroughly",
+      "Check expiration dates",
+      "When in doubt, throw it out"
+    ],
+    "home_remedies": [
+      "Stay hydrated with water, clear broth, and ORS",
+      "BRAT diet when ready to eat (Bananas, Rice, Applesauce, Toast)",
+      "Ginger tea for nausea",
+      "Apple cider vinegar in water",
+      "Rest the stomach \u2014 avoid eating for a few hours",
+      "Peppermint tea for stomach cramps",
+      "Lemon water",
+      "Probiotics when symptoms improve"
+    ],
+    "general_advice": [
+      "Most food poisoning resolves in 1-3 days",
+      "Anti-diarrheal medications may help (adults only)",
+      "Anti-nausea medications if prescribed",
+      "Electrolyte replacement solutions",
+      "Avoid dairy, caffeine, alcohol, and fatty foods until recovered",
+      "Antibiotics only if bacterial infection is confirmed"
+    ],
+    "when_to_see_doctor": [
+      "Symptoms lasting more than 3 days",
+      "High fever (above 101.5\u00b0F/38.6\u00b0C)",
+      "Blood in stool or vomit",
+      "Signs of severe dehydration",
+      "Inability to keep any fluids down",
+      "Neurological symptoms (blurry vision, tingling)",
+      "Pregnant, elderly, or immunocompromised"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Appendicitis": {
+    "description": "Appendicitis is inflammation of the appendix, a small pouch attached to the large intestine. It is a medical emergency that usually requires surgical removal of the appendix (appendectomy).",
+    "causes": [
+      "Blockage of the appendix opening",
+      "Hardened stool",
+      "Infection",
+      "Inflammatory bowel disease",
+      "Parasites",
+      "Abdominal trauma"
+    ],
+    "common_symptoms": [
+      "Sudden pain beginning around the navel and shifting to lower right abdomen",
+      "Pain worsening over 12-24 hours",
+      "Nausea and vomiting",
+      "Loss of appetite",
+      "Low-grade fever",
+      "Abdominal swelling",
+      "Inability to pass gas",
+      "Constipation or diarrhea"
+    ],
+    "risk_factors": [
+      "Age (10-30 years most common)",
+      "Male sex (slightly higher risk)",
+      "Family history",
+      "Cystic fibrosis"
+    ],
+    "prevention": [
+      "No proven method to prevent appendicitis",
+      "High-fiber diet may reduce risk",
+      "Eat plenty of fruits, vegetables, and whole grains",
+      "Stay hydrated"
+    ],
+    "home_remedies": [
+      "DO NOT attempt to treat appendicitis at home",
+      "DO NOT take laxatives or pain medications before diagnosis",
+      "DO NOT eat or drink anything if appendicitis is suspected",
+      "Apply ice pack (not heat) to abdomen for comfort while seeking medical help",
+      "Seek emergency medical attention immediately"
+    ],
+    "general_advice": [
+      "Appendicitis is a medical emergency requiring prompt treatment",
+      "Surgery (appendectomy) is the standard treatment",
+      "Laparoscopic surgery is preferred when possible",
+      "Antibiotics may be given before and after surgery",
+      "Recovery usually takes 1-3 weeks",
+      "Delay in treatment can cause the appendix to rupture"
+    ],
+    "when_to_see_doctor": [
+      "Seek IMMEDIATE emergency medical attention",
+      "Sudden severe abdominal pain in the right lower area",
+      "Pain that worsens with movement, coughing, or sneezing",
+      "Fever with abdominal pain",
+      "Inability to pass gas with abdominal swelling",
+      "DO NOT wait \u2014 ruptured appendix is life-threatening"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Kidney Stones": {
+    "description": "Kidney stones are hard deposits made of minerals and salts that form inside the kidneys. They can affect any part of the urinary tract. Passing stones can be extremely painful but usually doesn't cause permanent damage.",
+    "causes": [
+      "Concentrated urine allowing minerals to crystallize",
+      "Inadequate water intake",
+      "High-sodium or high-oxalate diet",
+      "Obesity",
+      "Certain medical conditions (hyperparathyroidism)",
+      "Family history"
+    ],
+    "common_symptoms": [
+      "Severe pain in the side and back below the ribs",
+      "Pain radiating to lower abdomen and groin",
+      "Pain that comes in waves",
+      "Painful urination",
+      "Pink, red, or brown urine",
+      "Nausea and vomiting",
+      "Frequent urination",
+      "Fever and chills if infection present"
+    ],
+    "risk_factors": [
+      "Family or personal history of kidney stones",
+      "Dehydration",
+      "High-sodium, high-sugar, or high-protein diets",
+      "Obesity",
+      "Digestive diseases and surgery",
+      "Certain medications",
+      "Medical conditions (renal tubular acidosis, cystinuria)"
+    ],
+    "prevention": [
+      "Drink plenty of water throughout the day (2-3 liters)",
+      "Reduce sodium intake",
+      "Limit animal protein",
+      "Eat calcium-rich foods (but be cautious with supplements)",
+      "Avoid high-oxalate foods if prone to oxalate stones",
+      "Limit sugary drinks"
+    ],
+    "home_remedies": [
+      "Drink lots of water (aim for 2-3 liters daily)",
+      "Lemon juice (citrate helps prevent stone formation)",
+      "Apple cider vinegar in water",
+      "Stay active to help pass small stones",
+      "Warm compress on painful area",
+      "Pomegranate juice",
+      "Basil tea for kidney health",
+      "Reduce salt and processed food intake"
+    ],
+    "general_advice": [
+      "Small stones (less than 5mm) may pass on their own",
+      "Pain relievers (ibuprofen) for stone-passing pain",
+      "Alpha-blockers may help relax ureter muscles",
+      "Lithotripsy (sound waves) for larger stones",
+      "Surgical removal for very large stones",
+      "Strain urine to catch passed stones for analysis"
+    ],
+    "when_to_see_doctor": [
+      "Severe pain preventing comfortable positioning",
+      "Pain accompanied by nausea and vomiting",
+      "Pain with fever and chills (may indicate infection)",
+      "Blood in urine",
+      "Difficulty passing urine",
+      "Stone too large to pass naturally",
+      "Recurring kidney stones"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Hypothyroidism": {
+    "description": "Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormones. This slows metabolism and can affect many body systems, causing fatigue, weight gain, and cold sensitivity.",
+    "causes": [
+      "Hashimoto's thyroiditis (autoimmune disease \u2014 most common)",
+      "Thyroid surgery",
+      "Radiation therapy",
+      "Certain medications (lithium, amiodarone)",
+      "Iodine deficiency",
+      "Pituitary gland disorders"
+    ],
+    "common_symptoms": [
+      "Fatigue and sluggishness",
+      "Increased sensitivity to cold",
+      "Unexplained weight gain",
+      "Constipation",
+      "Dry skin",
+      "Puffy face",
+      "Hoarseness",
+      "Muscle weakness",
+      "Elevated cholesterol",
+      "Thinning hair",
+      "Depression",
+      "Impaired memory"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Age over 60",
+      "Family history of thyroid disease",
+      "Autoimmune diseases",
+      "Previous thyroid treatment",
+      "Radiation to neck or upper chest",
+      "Pregnancy or recent delivery"
+    ],
+    "prevention": [
+      "Regular thyroid function tests if at risk",
+      "Adequate iodine intake (iodized salt, seafood)",
+      "Avoid excessive soy consumption",
+      "Don't skip thyroid medication",
+      "Regular medical checkups"
+    ],
+    "home_remedies": [
+      "Eat iodine-rich foods (seaweed, fish, dairy, eggs)",
+      "Include selenium-rich foods (Brazil nuts, tuna, eggs)",
+      "Coconut oil in cooking (may support thyroid function)",
+      "Regular exercise to boost metabolism",
+      "Manage stress with yoga and meditation",
+      "Ashwagandha supplements (consult doctor first)",
+      "Avoid processed foods and refined sugars"
+    ],
+    "general_advice": [
+      "Levothyroxine (synthetic thyroid hormone) is the standard treatment",
+      "Take medication on an empty stomach, 30-60 minutes before breakfast",
+      "Regular blood tests to monitor thyroid levels",
+      "Don't change dosage without doctor's approval",
+      "Avoid taking calcium or iron supplements near thyroid medication"
+    ],
+    "when_to_see_doctor": [
+      "Persistent fatigue despite adequate rest",
+      "Unexplained weight gain",
+      "Feeling cold all the time",
+      "Depression or cognitive changes",
+      "Swelling in the neck (goiter)",
+      "Muscle weakness or joint pain",
+      "Irregular menstrual periods"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Hyperthyroidism": {
+    "description": "Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone, accelerating the body's metabolism. This can cause rapid heartbeat, weight loss, nervousness, and irritability.",
+    "causes": [
+      "Graves' disease (autoimmune \u2014 most common)",
+      "Toxic multinodular goiter",
+      "Thyroid nodules",
+      "Thyroiditis (inflammation)",
+      "Excessive iodine intake",
+      "Pituitary gland tumors"
+    ],
+    "common_symptoms": [
+      "Rapid heartbeat (tachycardia)",
+      "Unexplained weight loss",
+      "Increased appetite",
+      "Anxiety, nervousness, and irritability",
+      "Tremors in hands and fingers",
+      "Sweating and heat intolerance",
+      "Changes in menstrual patterns",
+      "Increased bowel movements",
+      "Enlarged thyroid gland (goiter)",
+      "Bulging eyes (Graves' disease)"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Family history of thyroid disease",
+      "Having other autoimmune conditions",
+      "Excessive iodine intake",
+      "Age (over 60 for nodular goiter)",
+      "Recent pregnancy"
+    ],
+    "prevention": [
+      "Regular thyroid function tests",
+      "Moderate iodine intake",
+      "Manage stress",
+      "Don't smoke (increases risk of Graves' disease)",
+      "Regular health checkups"
+    ],
+    "home_remedies": [
+      "Anti-inflammatory foods (berries, leafy greens, omega-3 rich fish)",
+      "Limit iodine-rich foods (seaweed, iodized salt)",
+      "Calcium and vitamin D-rich foods for bone health",
+      "Lemon balm tea (may help reduce thyroid hormone)",
+      "Manage stress with meditation and yoga",
+      "Regular moderate exercise",
+      "Adequate sleep",
+      "Avoid caffeine and stimulants"
+    ],
+    "general_advice": [
+      "Anti-thyroid medications (methimazole, propylthiouracil)",
+      "Beta-blockers for rapid heartbeat and tremors",
+      "Radioactive iodine therapy",
+      "Thyroid surgery in some cases",
+      "Regular monitoring of thyroid levels",
+      "Calcium and vitamin D supplements for bone health"
+    ],
+    "when_to_see_doctor": [
+      "Rapid or irregular heartbeat",
+      "Unexplained weight loss despite good appetite",
+      "Excessive sweating and heat intolerance",
+      "Swelling in the neck",
+      "Vision changes or eye problems",
+      "Extreme fatigue",
+      "Thyroid storm symptoms (fever, rapid pulse, confusion) \u2014 emergency"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "GERD": {
+    "description": "Gastroesophageal reflux disease (GERD) is a chronic digestive condition where stomach acid frequently flows back into the esophagus. This acid reflux can irritate the esophageal lining and cause heartburn.",
+    "causes": [
+      "Frequent acid reflux",
+      "Weak lower esophageal sphincter",
+      "Hiatal hernia",
+      "Delayed stomach emptying",
+      "Obesity",
+      "Pregnancy",
+      "Certain medications"
+    ],
+    "common_symptoms": [
+      "Heartburn (burning sensation in chest)",
+      "Acid reflux (sour taste in mouth)",
+      "Difficulty swallowing",
+      "Chest pain",
+      "Sensation of a lump in throat",
+      "Regurgitation of food or liquid",
+      "Chronic cough",
+      "Laryngitis",
+      "Disrupted sleep"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Pregnancy",
+      "Smoking",
+      "Eating large meals late at night",
+      "Fatty or fried foods",
+      "Alcohol and coffee",
+      "Certain medications (aspirin)",
+      "Hiatal hernia"
+    ],
+    "prevention": [
+      "Maintain a healthy weight",
+      "Don't lie down after eating (wait 2-3 hours)",
+      "Elevate head of bed 6-8 inches",
+      "Eat smaller meals",
+      "Avoid trigger foods",
+      "Don't smoke",
+      "Don't wear tight-fitting clothing around abdomen"
+    ],
+    "home_remedies": [
+      "Elevate head while sleeping (6-8 inches)",
+      "Eat smaller, more frequent meals",
+      "Avoid eating 2-3 hours before bedtime",
+      "Chew gum after meals (stimulates saliva)",
+      "Drink aloe vera juice (small amounts)",
+      "Baking soda in water (temporary relief only)",
+      "Ginger tea",
+      "Avoid trigger foods (spicy, fatty, acidic, coffee, chocolate)"
+    ],
+    "general_advice": [
+      "Antacids for occasional relief",
+      "H2 receptor blockers (famotidine)",
+      "Proton pump inhibitors (omeprazole) for frequent symptoms",
+      "Lifestyle modifications are essential",
+      "Avoid long-term antacid overuse",
+      "Surgery (fundoplication) for severe, unresponsive cases"
+    ],
+    "when_to_see_doctor": [
+      "Heartburn more than twice a week",
+      "Difficulty or painful swallowing",
+      "Unexplained weight loss",
+      "Persistent nausea or vomiting",
+      "Symptoms not improving with OTC medications",
+      "Chest pain (rule out heart problems)",
+      "Chronic cough or hoarseness"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Conjunctivitis": {
+    "description": "Conjunctivitis (pink eye) is inflammation or infection of the transparent membrane (conjunctiva) that lines the eyelid and covers the white part of the eyeball. It makes eyes red, itchy, and sometimes produces discharge.",
+    "causes": [
+      "Viruses (most common \u2014 adenovirus)",
+      "Bacteria (Staphylococcus, Streptococcus)",
+      "Allergens (pollen, dust mites)",
+      "Chemical irritants",
+      "Contact lens wear",
+      "Foreign bodies in the eye"
+    ],
+    "common_symptoms": [
+      "Redness in one or both eyes",
+      "Itchiness",
+      "Gritty feeling",
+      "Discharge that forms crust overnight",
+      "Tearing",
+      "Sensitivity to light",
+      "Swelling of the eyelid"
+    ],
+    "risk_factors": [
+      "Contact with infected individuals",
+      "Allergies",
+      "Contact lens use",
+      "Exposure to chemicals or irritants",
+      "Weakened immune system"
+    ],
+    "prevention": [
+      "Wash hands frequently",
+      "Don't touch or rub eyes",
+      "Don't share personal items (towels, eye makeup)",
+      "Replace eye makeup regularly",
+      "Clean contact lenses properly",
+      "Use swim goggles in pools"
+    ],
+    "home_remedies": [
+      "Warm or cool compresses on closed eyes",
+      "Clean discharge with clean, damp cloth",
+      "Artificial tears (preservative-free)",
+      "Rose water drops for soothing (use only sterile solutions)",
+      "Cold chamomile tea bags on closed eyes",
+      "Avoid wearing contact lenses until resolved",
+      "Maintain good hand hygiene"
+    ],
+    "general_advice": [
+      "Viral conjunctivitis usually resolves on its own (1-2 weeks)",
+      "Antibiotic eye drops for bacterial conjunctivitis",
+      "Antihistamine or anti-inflammatory drops for allergic conjunctivitis",
+      "Don't wear contact lenses until infection clears",
+      "Replace eye makeup and lens case after infection"
+    ],
+    "when_to_see_doctor": [
+      "Severe eye pain",
+      "Sensitivity to light",
+      "Blurred vision that doesn't improve with blinking",
+      "Intense redness",
+      "Symptoms not improving after a week",
+      "Newborn with eye discharge",
+      "Weakened immune system with eye symptoms"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Tonsillitis": {
+    "description": "Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat. It commonly affects children but can occur at any age. Most cases are caused by common viruses.",
+    "causes": [
+      "Viruses (most common \u2014 rhinovirus, influenza, EBV)",
+      "Bacteria (Group A Streptococcus \u2014 strep throat)",
+      "Exposure to infected individuals"
+    ],
+    "common_symptoms": [
+      "Sore throat",
+      "Red, swollen tonsils",
+      "White or yellow coating on tonsils",
+      "Difficulty swallowing",
+      "Fever",
+      "Enlarged tender lymph nodes in neck",
+      "Bad breath",
+      "Headache",
+      "Ear pain"
+    ],
+    "risk_factors": [
+      "Young age (school-age children)",
+      "Frequent exposure to germs",
+      "Close contact with infected individuals"
+    ],
+    "prevention": [
+      "Wash hands frequently",
+      "Don't share utensils or drinking cups",
+      "Avoid close contact with sick individuals",
+      "Replace toothbrush after tonsillitis",
+      "Boost immune system with good nutrition"
+    ],
+    "home_remedies": [
+      "Gargle with warm salt water multiple times daily",
+      "Drink warm liquids (tea with honey, broth)",
+      "Cold treats (popsicles, ice chips) to numb throat",
+      "Use a humidifier",
+      "Rest your voice",
+      "Honey and lemon in warm water",
+      "Throat lozenges (adults and older children only)",
+      "Stay well hydrated"
+    ],
+    "general_advice": [
+      "Pain relievers (acetaminophen, ibuprofen)",
+      "Antibiotics for bacterial tonsillitis (complete the full course)",
+      "Tonsillectomy may be recommended for recurrent tonsillitis",
+      "Rest is important for recovery",
+      "Soft foods are easier to swallow"
+    ],
+    "when_to_see_doctor": [
+      "Sore throat lasting more than 2 days",
+      "Difficulty swallowing or breathing",
+      "Excessive drooling (in children)",
+      "High fever (above 103\u00b0F/39.4\u00b0C)",
+      "Pus on tonsils",
+      "Extreme fatigue",
+      "Stiff neck"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Ear Infection": {
+    "description": "Ear infections (otitis media) occur when the middle ear becomes inflamed and infected. They are very common in children and can cause pain, hearing difficulties, and fever.",
+    "causes": [
+      "Bacterial infection (most common)",
+      "Viral infection",
+      "Eustachian tube dysfunction",
+      "Upper respiratory infection",
+      "Allergies causing fluid buildup"
+    ],
+    "common_symptoms": [
+      "Ear pain (especially when lying down)",
+      "Difficulty sleeping",
+      "Hearing difficulties",
+      "Loss of balance",
+      "Fever",
+      "Fluid drainage from ear",
+      "Headache",
+      "Irritability (in children)"
+    ],
+    "risk_factors": [
+      "Age (6 months to 2 years)",
+      "Group child care",
+      "Bottle feeding while lying down",
+      "Seasonal factors (fall and winter)",
+      "Poor air quality/smoking exposure",
+      "Cleft palate",
+      "Pacifier use"
+    ],
+    "prevention": [
+      "Practice good hand hygiene",
+      "Avoid secondhand smoke",
+      "Breastfeed infants if possible",
+      "Keep up to date with vaccinations",
+      "Avoid sick contacts",
+      "Don't use cotton swabs inside ear canal"
+    ],
+    "home_remedies": [
+      "Warm compress on the affected ear",
+      "Over-the-counter ear drops for pain (if eardrum is intact)",
+      "Elevate head while sleeping",
+      "Stay hydrated",
+      "Garlic oil drops (warm \u2014 check with doctor first)",
+      "Chewing gum (helps open eustachian tubes)",
+      "Rest",
+      "Saline nasal spray to reduce congestion"
+    ],
+    "general_advice": [
+      "Pain management with acetaminophen or ibuprofen",
+      "Many ear infections resolve without antibiotics",
+      "Antibiotics prescribed for severe or bacterial infections",
+      "Ear tubes may be recommended for chronic ear infections",
+      "Follow-up hearing test after severe infections"
+    ],
+    "when_to_see_doctor": [
+      "Ear pain lasting more than a day",
+      "Ear discharge (especially bloody or pus-like)",
+      "Symptoms in a child under 6 months",
+      "High fever",
+      "Hearing loss",
+      "Symptoms not improving after 2-3 days",
+      "Recurrent ear infections"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Sciatica": {
+    "description": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which extends from the lower back through the hips, buttocks, and down each leg. It typically affects only one side of the body.",
+    "causes": [
+      "Herniated disc (most common)",
+      "Bone spur on the spine",
+      "Spinal stenosis",
+      "Piriformis syndrome",
+      "Spondylolisthesis",
+      "Pregnancy"
+    ],
+    "common_symptoms": [
+      "Pain radiating from lower back to buttock and down the leg",
+      "Numbness, tingling, or muscle weakness in the affected leg",
+      "Sharp, burning, or shooting pain",
+      "Pain worse when sitting",
+      "Difficulty standing up",
+      "Foot drop in severe cases"
+    ],
+    "risk_factors": [
+      "Age (30-50 most common onset)",
+      "Obesity",
+      "Prolonged sitting",
+      "Diabetes",
+      "Occupation (heavy lifting, driving)",
+      "Sedentary lifestyle"
+    ],
+    "prevention": [
+      "Exercise regularly (core strengthening)",
+      "Maintain good posture",
+      "Use proper body mechanics when lifting",
+      "Take breaks from prolonged sitting",
+      "Maintain a healthy weight",
+      "Stretch regularly",
+      "Use ergonomic furniture"
+    ],
+    "home_remedies": [
+      "Alternate hot and cold compresses",
+      "Gentle stretching exercises (piriformis stretch, knee-to-chest)",
+      "Walking (short distances, gradually increase)",
+      "Yoga poses (cat-cow, child's pose, cobra)",
+      "Turmeric and ginger anti-inflammatory drinks",
+      "Epsom salt baths",
+      "Massage therapy",
+      "Maintain good sleeping posture"
+    ],
+    "general_advice": [
+      "NSAIDs (ibuprofen, naproxen) for pain and inflammation",
+      "Muscle relaxants if prescribed",
+      "Physical therapy is highly effective",
+      "Epidural steroid injections for severe cases",
+      "Surgery (microdiscectomy) only if conservative treatment fails",
+      "Most cases resolve within 4-6 weeks"
+    ],
+    "when_to_see_doctor": [
+      "Pain not improving after a week of self-care",
+      "Severe pain preventing normal activities",
+      "Sudden severe pain in low back or leg",
+      "Numbness or weakness worsening",
+      "Loss of bladder or bowel control (emergency)",
+      "Pain after a violent injury"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Carpal Tunnel Syndrome": {
+    "description": "Carpal tunnel syndrome is a condition caused by compression of the median nerve as it passes through the carpal tunnel in the wrist. It causes numbness, tingling, and weakness in the hand.",
+    "causes": [
+      "Repetitive hand and wrist movements",
+      "Wrist anatomy variations",
+      "Inflammatory conditions (rheumatoid arthritis)",
+      "Fluid retention (pregnancy, menopause)",
+      "Thyroid disorders",
+      "Diabetes",
+      "Obesity"
+    ],
+    "common_symptoms": [
+      "Numbness and tingling in thumb, index, middle, and ring fingers",
+      "Weakness in hand and tendency to drop objects",
+      "Burning or itching sensation in palm",
+      "Pain radiating up the arm",
+      "Shock-like feelings in fingers",
+      "Symptoms often worse at night"
+    ],
+    "risk_factors": [
+      "Repetitive wrist movements (typing, assembly work)",
+      "Female sex (3 times more common)",
+      "Pregnancy",
+      "Diabetes",
+      "Thyroid conditions",
+      "Obesity",
+      "Rheumatoid arthritis"
+    ],
+    "prevention": [
+      "Take frequent breaks from repetitive activities",
+      "Use ergonomic keyboard and mouse",
+      "Keep wrists in neutral position while typing",
+      "Stretch hands and wrists regularly",
+      "Maintain good posture",
+      "Reduce force and relax grip",
+      "Keep hands warm"
+    ],
+    "home_remedies": [
+      "Wrist splinting (especially at night)",
+      "Ice packs on wrist for 15-20 minutes",
+      "Wrist stretching exercises",
+      "Take breaks every 30 minutes from repetitive tasks",
+      "Shake out hands periodically",
+      "Warm water soak for stiffness",
+      "Ergonomic adjustments to workstation",
+      "Yoga and hand stretches"
+    ],
+    "general_advice": [
+      "Wrist splints (especially at night) are first-line treatment",
+      "NSAIDs for pain and inflammation",
+      "Corticosteroid injections for temporary relief",
+      "Physical or occupational therapy",
+      "Surgery (carpal tunnel release) for severe cases",
+      "Modify activities that aggravate symptoms"
+    ],
+    "when_to_see_doctor": [
+      "Persistent numbness or tingling in fingers",
+      "Weakness in hand or dropping objects frequently",
+      "Symptoms interfering with daily activities or sleep",
+      "Loss of feeling in fingers",
+      "Inability to pinch between thumb and finger",
+      "No improvement with self-care measures"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Depression": {
+    "description": "Depression (major depressive disorder) is a common but serious mood disorder that affects how you feel, think, and handle daily activities. It causes persistent feelings of sadness and loss of interest.",
+    "causes": [
+      "Brain chemistry imbalances",
+      "Genetic predisposition",
+      "Traumatic or stressful life events",
+      "Medical conditions (thyroid disorders, chronic illness)",
+      "Certain medications",
+      "Substance abuse",
+      "Social isolation"
+    ],
+    "common_symptoms": [
+      "Persistent sad or empty mood",
+      "Loss of interest in activities once enjoyed",
+      "Changes in appetite and weight",
+      "Sleep disturbances (insomnia or oversleeping)",
+      "Fatigue and loss of energy",
+      "Feelings of worthlessness or guilt",
+      "Difficulty concentrating",
+      "Thoughts of death or suicide"
+    ],
+    "risk_factors": [
+      "Family history of depression",
+      "Major life changes or trauma",
+      "Chronic medical conditions",
+      "Certain medications",
+      "Substance abuse",
+      "Low self-esteem",
+      "Lack of social support"
+    ],
+    "prevention": [
+      "Maintain social connections",
+      "Exercise regularly",
+      "Get adequate sleep",
+      "Manage stress effectively",
+      "Limit alcohol consumption",
+      "Seek help early when feeling down",
+      "Practice mindfulness and gratitude"
+    ],
+    "home_remedies": [
+      "Regular exercise (even 30-minute walks)",
+      "Maintain a consistent sleep schedule",
+      "Eat a balanced, nutritious diet",
+      "Practice mindfulness meditation",
+      "Spend time in nature and sunlight",
+      "Stay socially connected",
+      "Journal your thoughts and feelings",
+      "Limit screen time and social media",
+      "Omega-3 fatty acids (fish, walnuts, flaxseeds)",
+      "Set small, achievable daily goals"
+    ],
+    "general_advice": [
+      "Psychotherapy (CBT, interpersonal therapy) is highly effective",
+      "Antidepressant medications may be prescribed",
+      "Combination of therapy and medication often works best",
+      "Don't stop medication without doctor's guidance",
+      "Recovery takes time \u2014 be patient with yourself",
+      "Support groups can be helpful"
+    ],
+    "when_to_see_doctor": [
+      "Symptoms lasting more than 2 weeks",
+      "Inability to perform daily activities",
+      "Thoughts of self-harm or suicide (seek immediate help)",
+      "Using alcohol or drugs to cope",
+      "Physical symptoms without medical cause",
+      "Feelings of hopelessness or despair",
+      "Social withdrawal affecting relationships"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Anxiety Disorder": {
+    "description": "Anxiety disorders involve excessive, persistent worry and fear about everyday situations. They can interfere with daily activities, are difficult to control, and may include panic attacks.",
+    "causes": [
+      "Brain chemistry imbalances",
+      "Genetics",
+      "Environmental stress",
+      "Traumatic experiences",
+      "Medical conditions (thyroid problems, heart disease)",
+      "Substance use or withdrawal"
+    ],
+    "common_symptoms": [
+      "Excessive worrying",
+      "Restlessness or feeling on edge",
+      "Rapid heartbeat",
+      "Sweating",
+      "Trembling",
+      "Difficulty concentrating",
+      "Sleep problems",
+      "Muscle tension",
+      "Irritability",
+      "Panic attacks (chest pain, shortness of breath, dizziness)"
+    ],
+    "risk_factors": [
+      "Family history of anxiety disorders",
+      "Trauma or abuse",
+      "Chronic health conditions",
+      "Substance abuse",
+      "Stressful life events",
+      "Certain personality types",
+      "Other mental health disorders"
+    ],
+    "prevention": [
+      "Stay physically active",
+      "Avoid alcohol and recreational drugs",
+      "Limit caffeine",
+      "Use stress management techniques",
+      "Prioritize sleep",
+      "Maintain social support",
+      "Practice relaxation techniques daily"
+    ],
+    "home_remedies": [
+      "Deep breathing exercises (4-7-8 technique)",
+      "Progressive muscle relaxation",
+      "Regular physical exercise",
+      "Mindfulness meditation and yoga",
+      "Chamomile or lavender tea",
+      "Journaling to process thoughts",
+      "Limit caffeine and sugar intake",
+      "Aromatherapy with lavender or bergamot",
+      "Maintain a regular routine",
+      "Spend time in nature"
+    ],
+    "general_advice": [
+      "Cognitive Behavioral Therapy (CBT) is the gold standard",
+      "Anti-anxiety medications (SSRIs, SNRIs) may be prescribed",
+      "Benzodiazepines for short-term acute anxiety only",
+      "Beta-blockers for physical symptoms",
+      "Combination of therapy and lifestyle changes is most effective",
+      "Self-help and support groups can complement treatment"
+    ],
+    "when_to_see_doctor": [
+      "Excessive worry affecting daily life",
+      "Panic attacks",
+      "Anxiety accompanied by depression",
+      "Using substances to manage anxiety",
+      "Physical symptoms (chest pain, chronic headaches)",
+      "Difficulty maintaining relationships or work performance",
+      "Suicidal thoughts"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Insomnia": {
+    "description": "Insomnia is a common sleep disorder characterized by difficulty falling asleep, staying asleep, or waking too early and not being able to get back to sleep. It can affect energy, mood, health, and quality of life.",
+    "causes": [
+      "Stress and anxiety",
+      "Poor sleep habits",
+      "Irregular sleep schedule",
+      "Caffeine, nicotine, or alcohol",
+      "Medical conditions",
+      "Medications",
+      "Mental health disorders",
+      "Shift work or jet lag"
+    ],
+    "common_symptoms": [
+      "Difficulty falling asleep",
+      "Waking during the night",
+      "Waking too early",
+      "Not feeling rested after sleep",
+      "Daytime fatigue and sleepiness",
+      "Irritability, depression, or anxiety",
+      "Difficulty concentrating",
+      "Increased errors or accidents"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Age over 60",
+      "Mental health disorders",
+      "Stressful life events",
+      "Irregular schedule",
+      "Sedentary lifestyle",
+      "Certain medications"
+    ],
+    "prevention": [
+      "Maintain a consistent sleep schedule",
+      "Create a comfortable sleep environment",
+      "Limit screen time before bed",
+      "Avoid caffeine after 2 PM",
+      "Exercise regularly (but not close to bedtime)",
+      "Manage stress",
+      "Avoid napping late in the day"
+    ],
+    "home_remedies": [
+      "Establish a consistent bedtime routine",
+      "Make bedroom dark, cool, and quiet",
+      "Avoid screens 1 hour before bed",
+      "Warm milk or chamomile tea before bed",
+      "Lavender aromatherapy",
+      "Progressive muscle relaxation",
+      "White noise machine or fan",
+      "Meditation or deep breathing before sleep",
+      "Limit fluid intake before bed",
+      "Valerian root tea (consult doctor)"
+    ],
+    "general_advice": [
+      "Cognitive Behavioral Therapy for Insomnia (CBT-I) is most effective",
+      "Melatonin supplements (consult doctor for dosage)",
+      "Prescription sleep aids for short-term use only",
+      "Sleep restriction therapy",
+      "Stimulus control therapy",
+      "Address underlying conditions causing insomnia"
+    ],
+    "when_to_see_doctor": [
+      "Insomnia lasting more than 3 weeks",
+      "Insomnia affecting daily functioning",
+      "Falling asleep at inappropriate times",
+      "Loud snoring with gasping (may indicate sleep apnea)",
+      "Unusual behaviors during sleep",
+      "Excessive daytime sleepiness despite adequate time in bed"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Heat Stroke": {
+    "description": "Heat stroke is the most severe form of heat illness and is a medical emergency. It occurs when the body's temperature regulation fails and body temperature rises to 104\u00b0F (40\u00b0C) or higher.",
+    "causes": [
+      "Prolonged exposure to high temperatures",
+      "Strenuous physical activity in hot weather",
+      "Dehydration",
+      "Excessive clothing preventing sweat evaporation",
+      "Alcohol use in hot conditions",
+      "Certain medications affecting thermoregulation"
+    ],
+    "common_symptoms": [
+      "Body temperature of 104\u00b0F (40\u00b0C) or higher",
+      "Hot, red, dry or damp skin",
+      "Rapid pulse",
+      "Headache",
+      "Dizziness",
+      "Nausea and vomiting",
+      "Confusion or altered mental state",
+      "Loss of consciousness",
+      "Muscle cramps or weakness"
+    ],
+    "risk_factors": [
+      "Age (elderly and young children)",
+      "Hot and humid weather",
+      "Sudden temperature increases",
+      "Lack of air conditioning",
+      "Certain medications (diuretics, beta-blockers)",
+      "Chronic health conditions",
+      "Intense physical activity in heat"
+    ],
+    "prevention": [
+      "Stay hydrated (drink water before feeling thirsty)",
+      "Wear lightweight, loose-fitting, light-colored clothing",
+      "Avoid outdoor activity during peak heat hours (10 AM - 4 PM)",
+      "Apply sunscreen",
+      "Never leave anyone in a parked car",
+      "Gradually acclimatize to hot weather",
+      "Take frequent breaks in shade or air conditioning"
+    ],
+    "home_remedies": [
+      "HEAT STROKE IS A MEDICAL EMERGENCY \u2014 CALL EMERGENCY SERVICES",
+      "Move person to a cool, shaded area immediately",
+      "Remove excess clothing",
+      "Apply ice packs to neck, armpits, and groin",
+      "Fan the person while misting with cool water",
+      "If conscious, give small sips of cool water",
+      "Immerse in cool water if possible",
+      "Do NOT give fever-reducing medications"
+    ],
+    "general_advice": [
+      "This is a medical emergency requiring immediate treatment",
+      "IV fluids in hospital setting",
+      "Active cooling measures",
+      "Monitoring for organ damage",
+      "ICU care may be needed",
+      "Recovery may take days to weeks",
+      "Increased susceptibility to future heat illness after an episode"
+    ],
+    "when_to_see_doctor": [
+      "CALL EMERGENCY SERVICES IMMEDIATELY for heat stroke",
+      "Body temperature above 103\u00b0F (39.4\u00b0C)",
+      "Hot, dry skin with no sweating",
+      "Confusion, agitation, or loss of consciousness",
+      "Rapid heartbeat",
+      "Seizures",
+      "Any altered mental state in hot weather"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  },
+  "Dehydration": {
+    "description": "Dehydration occurs when the body loses more fluid than it takes in. Even mild dehydration can drain energy and make you tired. Severe dehydration can be life-threatening, especially in children and older adults.",
+    "causes": [
+      "Inadequate fluid intake",
+      "Excessive sweating (exercise, hot weather)",
+      "Diarrhea and vomiting",
+      "Fever",
+      "Excessive urination (diabetes, diuretic medications)",
+      "Burns"
+    ],
+    "common_symptoms": [
+      "Thirst",
+      "Dry mouth and lips",
+      "Dark yellow urine",
+      "Decreased urination",
+      "Fatigue",
+      "Dizziness",
+      "Headache",
+      "Dry skin",
+      "Sunken eyes",
+      "Rapid heartbeat",
+      "Confusion (in severe cases)"
+    ],
+    "risk_factors": [
+      "Infants and young children",
+      "Older adults",
+      "Chronic illnesses (diabetes, kidney disease)",
+      "Working or exercising in hot weather",
+      "Living at high altitudes",
+      "Certain medications (diuretics)"
+    ],
+    "prevention": [
+      "Drink water regularly throughout the day",
+      "Increase fluid intake in hot weather or during exercise",
+      "Eat water-rich fruits and vegetables",
+      "Monitor urine color (pale yellow is ideal)",
+      "Drink before, during, and after exercise",
+      "Limit alcohol and caffeine",
+      "Replace fluids lost to vomiting or diarrhea promptly"
+    ],
+    "home_remedies": [
+      "Oral rehydration solution (ORS) \u2014 best for replacing lost electrolytes",
+      "Coconut water (natural electrolyte drink)",
+      "Watermelon, cucumber, and oranges (high water content)",
+      "Buttermilk with a pinch of salt",
+      "Lemon water with salt and sugar",
+      "Banana (rich in potassium)",
+      "Clear broths and soups",
+      "Small, frequent sips rather than gulping water"
+    ],
+    "general_advice": [
+      "Mild dehydration can be treated at home with fluids",
+      "ORS packets are available at pharmacies",
+      "Sports drinks can help replace electrolytes",
+      "Avoid sugary drinks and soda",
+      "IV fluids for moderate to severe dehydration",
+      "Address underlying cause (diarrhea, vomiting, etc.)"
+    ],
+    "when_to_see_doctor": [
+      "Signs of severe dehydration (extreme thirst, very dark urine, confusion)",
+      "No urination for 8+ hours",
+      "Rapid heartbeat or breathing",
+      "Fainting or loss of consciousness",
+      "Diarrhea lasting more than 2 days",
+      "Inability to keep fluids down",
+      "Bloody or black stool",
+      "Dehydration in infants, children, or elderly"
+    ],
+    "clinical_treatments": [
+      "Consult a healthcare professional for a personalized treatment plan.",
+      "Prescription medications may be required based on the severity and underlying cause.",
+      "Do not self-medicate with antibiotics or prescription drugs without medical supervision."
+    ]
+  }
+}

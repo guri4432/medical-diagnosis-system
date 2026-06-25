@@ -1,0 +1,11 @@
+flask
+scikit-learn
+pandas
+numpy
+joblib
+shap
+Flask-SQLAlchemy
+psycopg2-binary
+pytest
+pytest-flask
+gunicorn
