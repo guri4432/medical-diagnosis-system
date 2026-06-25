@@ -189,7 +189,7 @@ def predict():
     try:
         history_entry = DiagnosisHistory(
             symptoms=json.dumps(valid_symptoms),
-            predicted_disease="Uncertain" if confidence < 80.0 else predicted_disease,
+            predicted_disease="Uncertain" if confidence < 15.0 else predicted_disease,
             confidence=confidence,
             top_predictions=json.dumps(top_predictions),
             timestamp=datetime.now().isoformat(),
@@ -201,8 +201,8 @@ def predict():
         app.logger.warning(f"Could not save to history: {e}")
         db.session.rollback()
 
-    # === 80% CONFIDENCE THRESHOLD ===
-    if confidence < 80.0:
+    # === 15% CONFIDENCE THRESHOLD ===
+    if confidence < 15.0:
         return jsonify({
             'low_confidence': True,
             'message': 'Insufficient symptom data for a high-confidence diagnosis. Please provide more specific symptoms or consult a doctor.',
